@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="700.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.MainController">
+	<tabs>
+		<Tab fx:id="home" text="Home">
+			<content>
+				<AnchorPane layoutX="10.0" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+					<children>
+						<Label layoutX="224.0" layoutY="15.0" text="Welcome To The Mini Super Store">
+							<font>
+								<Font name="Times New Roman Bold" size="18.0" />
+							</font>
+						</Label>
+						<Line endX="576.2716674804688" endY="1.1444091796875E-5" layoutX="115.0" layoutY="42.0" startX="-100.0" stroke="#0000003b" />
+						<ListView fx:id="homeListView" layoutX="249.0" layoutY="41.0" prefHeight="274.0" prefWidth="441.0" AnchorPane.bottomAnchor="47.0" AnchorPane.leftAnchor="249.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="50.0" />
+						<Button fx:id="homePurchase" layoutX="460.0" layoutY="325.0" mnemonicParsing="false" onAction="#homePurchaseAction" text="Purchase">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+						<Line endX="115.0" endY="-1.0" layoutX="114.0" layoutY="135.0" startX="-100.0" stroke="#0000003b" />
+						<Line endX="115.0" endY="-1.0" layoutX="114.0" layoutY="248.0" startX="-100.0" stroke="#0000003b" />
+						<Label layoutX="13.0" layoutY="77.0" text="Search Inventory:">
+							<font>
+								<Font name="Times New Roman Bold" size="13.0" />
+							</font>
+						</Label>
+						<RadioButton fx:id="homeSNbtn1" layoutX="13.0" layoutY="103.0" mnemonicParsing="false" text="Serial Number">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</RadioButton>
+						<RadioButton fx:id="homeNamebtn2" layoutX="105.0" layoutY="103.0" mnemonicParsing="false" text="Name">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</RadioButton>
+						<RadioButton fx:id="homeTypebtn3" layoutX="160.0" layoutY="103.0" mnemonicParsing="false" text="Type">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</RadioButton>
+						<Label layoutX="13.0" layoutY="158.0" text="Serial Number (SN)">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="13.0" layoutY="180.0" text="Name">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="13.0" layoutY="202.0" text="Type">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<TextField fx:id="homeSN" layoutX="107.0" layoutY="153.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" promptText="Enter Serial Number here">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<TextField fx:id="homeName" layoutX="107.0" layoutY="176.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" promptText="Enter Name here">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<TextField fx:id="homeType" layoutX="107.0" layoutY="199.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" promptText="Enter Type here">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<Button fx:id="homeSearch" layoutX="13.0" layoutY="261.0" mnemonicParsing="false" onAction="#homeSearchAction" prefHeight="22.0" prefWidth="63.0" text="Search">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+						<Button fx:id="homeReset" layoutX="88.0" layoutY="261.0" mnemonicParsing="false" onAction="#homeResetAction" prefHeight="22.0" prefWidth="63.0" text="Reset">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+						<Button fx:id="homeClear" layoutX="160.0" layoutY="261.0" mnemonicParsing="false" onAction="#homeClearListAction" prefHeight="22.0" prefWidth="63.0" text="Clear List">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+					</children>
+				</AnchorPane>
+			</content>
+		</Tab>
+		<Tab fx:id="addItem" text="Add Item">
+			<content>
+				<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+					<children>
+						<Line endX="223.76321411132812" endY="489.6539306640625" layoutX="39.0" layoutY="-137.0" startX="223.76321411132812" startY="150.00001525878906" stroke="#0000003b" />
+						<Label layoutX="13.0" layoutY="55.0" text="Enter new Toy Information:">
+							<font>
+								<Font name="Times New Roman Bold" size="13.0" />
+							</font>
+						</Label>
+						<Line endX="136.67233276367188" endY="-1.52587890625E-5" layoutX="113.0" layoutY="85.0" startX="-100.0" stroke="#0000003b" />
+						<Label layoutX="13.0" layoutY="112.0" text="Category">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<ChoiceBox fx:id="addCategory" layoutX="128.0" layoutY="110.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" />
+						<Label layoutX="13.0" layoutY="142.0" text="Serial Number (SN)">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="13.0" layoutY="172.0" text="Name">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="13.0" layoutY="203.0" text="Price">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="13.0" layoutY="233.0" text="Available Count">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="13.0" layoutY="263.0" text="Age Appropriate">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<TextField fx:id="addSN" layoutX="128.0" layoutY="140.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<TextField fx:id="addName" layoutX="128.0" layoutY="170.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<TextField fx:id="addPrice" layoutX="128.0" layoutY="200.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<TextField fx:id="addCount" layoutX="128.0" layoutY="230.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<TextField fx:id="addAge" layoutX="128.0" layoutY="260.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<Button fx:id="addSavebtn" layoutX="98.0" layoutY="323.0" mnemonicParsing="false" onAction="#addSaveAction" prefHeight="26.0" prefWidth="60.0" text="Save">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+						<Line endY="30.0" layoutX="481.0" layoutY="137.0" startY="-127.0" stroke="#0000003b" />
+						<Line endX="270.0" endY="3.0" layoutX="184.0" layoutY="180.0" startX="103.0" startY="3.0" stroke="#0000003b" />
+						<Line endX="270.0" endY="3.0" layoutX="400.0" layoutY="180.0" startX="103.0" startY="3.0" stroke="#0000003b" />
+						<Line endY="25.0" layoutX="480.0" layoutY="333.0" startY="-135.0" stroke="#0000003b" />
+						<Label layoutX="364.0" layoutY="17.0" text="Figures">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="600.0" layoutY="17.0" text="Animals">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="364.0" layoutY="201.0" text="Puzzles">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Line endX="53.0" endY="2.0" layoutX="363.0" layoutY="29.0" startX="-23.0" startY="2.0" stroke="#0000003b" />
+						<Line endX="53.0" endY="2.0" layoutX="366.0" layoutY="216.0" startX="-23.0" startY="2.0" stroke="#0000003b" />
+						<Line endX="53.0" endY="2.0" layoutX="601.0" layoutY="29.0" startX="-23.0" startY="2.0" stroke="#0000003b" />
+						<Label layoutX="272.0" layoutY="87.0" text="Classification">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<ChoiceBox fx:id="toyClassification" layoutX="356.0" layoutY="84.0" minHeight="20.0" prefHeight="20.0" prefWidth="108.0" />
+						<Label layoutX="494.0" layoutY="80.0" text="Material">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<TextField fx:id="addMaterial" layoutX="578.0" layoutY="79.0" minHeight="20.0" prefHeight="20.0" prefWidth="108.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<Label layoutX="494.0" layoutY="110.0" text="Size">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Line endX="56.5999755859375" endY="2.0" layoutX="597.0" layoutY="216.0" startX="-23.0" startY="2.0" stroke="#0000003b" />
+						<Label layoutX="275.0" layoutY="273.0" text="Type">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<ChoiceBox fx:id="puzzleType" layoutX="317.0" layoutY="267.0" minHeight="20.0" prefHeight="20.0" prefWidth="108.0" />
+						<Label layoutX="494.0" layoutY="262.0" text="Min. Number of Players">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="494.0" layoutY="292.0" text="Max. Number of Players">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="585.0" layoutY="201.0" prefHeight="14.0" prefWidth="62.0" text="Board Game">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<TextField fx:id="addBoarGameMin" layoutX="611.0" layoutY="260.0" minHeight="20.0" prefHeight="20.0" prefWidth="72.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<TextField fx:id="addBoarGameMax" layoutX="611.0" layoutY="290.0" minHeight="20.0" prefHeight="20.0" prefWidth="72.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<Label layoutX="494.0" layoutY="232.0" text="Designer (s)">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<TextField fx:id="addBookAuthor" layoutX="577.0" layoutY="230.0" minHeight="20.0" prefHeight="20.0" prefWidth="108.0">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+                  <Label layoutX="13.0" layoutY="293.0" text="Brand">
+                     <font>
+                        <Font name="Times New Roman" size="11.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="addBrand" layoutX="128.0" layoutY="290.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0">
+                     <font>
+                        <Font name="Times New Roman" size="10.0" />
+                     </font>
+                  </TextField>
+                  <ChoiceBox fx:id="toySize" layoutX="578.0" layoutY="109.0" minHeight="20.0" prefHeight="20.0" prefWidth="108.0" />
+					</children>
+				</AnchorPane>
+			</content>
+		</Tab>
+		<Tab fx:id="removeItem" text="Remove Item">
+			<content>
+				<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+					<children>
+						<ListView fx:id="removeListView" layoutX="249.0" layoutY="41.0" prefHeight="274.0" prefWidth="441.0" AnchorPane.bottomAnchor="47.0" AnchorPane.leftAnchor="249.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="50.0" />
+						<Line endX="115.0" endY="-1.0" layoutX="114.0" layoutY="132.0" startX="-100.0" stroke="#0000003b" />
+						<Label layoutX="13.0" layoutY="102.0" text="Enter Serial Number :">
+							<font>
+								<Font name="Times New Roman Bold" size="13.0" />
+							</font>
+						</Label>
+						<Label layoutX="14.0" layoutY="168.0" text="Serial Number (SN)">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<TextField fx:id="removeSN" layoutX="110.0" layoutY="163.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" promptText="Enter Serial Number here">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<Button fx:id="removeSearchbtn" layoutX="38.0" layoutY="233.0" mnemonicParsing="false" onAction="#removeSearch" prefHeight="26.0" prefWidth="69.0" text="Search ">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+						<Button fx:id="removeBtn" layoutX="136.0" layoutY="233.0" mnemonicParsing="false" onAction="#removeItem" prefHeight="26.0" prefWidth="69.0" text="Remove">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+						<Label fx:id="removeLabel" layoutX="14.0" layoutY="187.0" textFill="#f70606">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</Label>
+					</children>
+				</AnchorPane>
+			</content>
+		</Tab>
+		<Tab fx:id="Recommendation" text="Recommendation">
+			<content>
+				<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+					<children>
+						<ListView fx:id="recommendationListView" layoutX="249.0" layoutY="41.0" prefHeight="274.0" prefWidth="441.0" AnchorPane.bottomAnchor="47.0" AnchorPane.leftAnchor="249.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="50.0" />
+						<Label layoutX="13.0" layoutY="63.0" text="Choose At Least Two of The Followings:">
+							<font>
+								<Font name="Times New Roman Bold" size="13.0" />
+							</font>
+						</Label>
+						<Line endX="100.0" layoutX="125.0" layoutY="93.0" startX="-109.21824645996094" startY="-1.52587890625E-5" stroke="#0000003b" />
+						<CheckBox fx:id="recommendationAgeCB" layoutX="13.0" layoutY="113.0" mnemonicParsing="false" text="Age">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</CheckBox>
+						<CheckBox fx:id="recommendationTypeCB" layoutX="69.0" layoutY="112.0" mnemonicParsing="false" text="Type">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</CheckBox>
+						<CheckBox fx:id="recommendationPriceCB" layoutX="127.0" layoutY="112.0" mnemonicParsing="false" text="Price Range">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</CheckBox>
+						<Label layoutX="13.0" layoutY="153.0" text="Age">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="13.0" layoutY="183.0" text="Type">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<Label layoutX="13.0" layoutY="213.0" text="Price Range">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Label>
+						<TextField fx:id="recommendationAge" layoutX="95.0" layoutY="150.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" promptText="Enter Age Here">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<TextField fx:id="recommendationPriceMin" layoutX="94.0" layoutY="210.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" promptText="Minimum Price">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<ChoiceBox fx:id="recommendationType" layoutX="95.0" layoutY="180.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" />
+						<TextField fx:id="recommendationPriceMax" layoutX="95.0" layoutY="240.0" minHeight="20.0" prefHeight="1.0" prefWidth="120.0" promptText="Maximum Price">
+							<font>
+								<Font name="Times New Roman" size="10.0" />
+							</font>
+						</TextField>
+						<Button fx:id="recommendationSearchBtn" layoutX="52.0" layoutY="283.0" mnemonicParsing="false" onAction="#recommendationSearchAction" text="Search">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+						<Button fx:id="recommendationPurchaseBtn" layoutX="122.0" layoutY="283.0" mnemonicParsing="false" onAction="#recommendationPurchaseAction" text="Purchase">
+							<font>
+								<Font name="Times New Roman" size="11.0" />
+							</font>
+						</Button>
+					</children>
+				</AnchorPane>
+			</content>
+		</Tab>
+	</tabs>
+</TabPane>
