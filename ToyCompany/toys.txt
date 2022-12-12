@@ -1,0 +1,639 @@
+(1)  Category: Figure;  Serial Number: 1147205649;  Name: Ninja Turtles;  Brand: Gamezoid;  Price: 46.15;  Available-count: 10;  Age-appropriate: 6; Classification: A
+(2)  Category: Figure;  Serial Number: 0693095326;  Name: Napoleon;  Brand: Gamescape;  Price: 14.16;  Available-count: 10;  Age-appropriate: 3; Classification: H
+(3)  Category: Figure;  Serial Number: 0113513686;  Name: Toy soldier;  Brand: Gamen;  Price: 14.06;  Available-count: 2;  Age-appropriate: 5; Classification: A
+(4)  Category: Figure;  Serial Number: 1167480102;  Name: Transformers;  Brand: Game Zombie;  Price: 9.41;  Available-count: 10;  Age-appropriate: 9; Classification: H
+(5)  Category: Figure;  Serial Number: 1989637627;  Name: Abraham Lincoln;  Brand: Game Throne;  Price: 60.10;  Available-count: 5;  Age-appropriate: 7; Classification: H
+(6)  Category: Figure;  Serial Number: 1731377211;  Name: Groovy Girls;  Brand: Game Loop;  Price: 80.66;  Available-count: 3;  Age-appropriate: 5; Classification: H
+(7)  Category: Figure;  Serial Number: 1772751359;  Name: Teddy bear;  Brand: Game Reboot;  Price: 221.46;  Available-count: 8;  Age-appropriate: 3; Classification: H
+(8)  Category: Figure;  Serial Number: 1963069543;  Name: Chatty Cathy;  Brand: Game Survival;  Price: 120.37;  Available-count: 5;  Age-appropriate: 8; Classification: A
+(9)  Category: Figure;  Serial Number: 1829395687;  Name: Albert Einstein;  Brand: Game Pixel;  Price: 22.47;  Available-count: 7;  Age-appropriate: 3; Classification: H
+(10)  Category: Figure;  Serial Number: 0554378222;  Name: Elizabeth I;  Brand: Game Mafia;  Price: 40.34;  Available-count: 12;  Age-appropriate: 3; Classification: H
+(11)  Category: Figure;  Serial Number: 0219383891;  Name: Leonardo da Vinci;  Brand: Game Zombie;  Price: 48.44;  Available-count: 14;  Age-appropriate: 6; Classification: H
+(12)  Category: Figure;  Serial Number: 1918096709;  Name: Karl Marx;  Brand: Gameara;  Price: 76.30;  Available-count: 10;  Age-appropriate: 6; Classification: A
+(13)  Category: Figure;  Serial Number: 0970660308;  Name: Baby Alive;  Brand: Game Assassin;  Price: 214.41;  Available-count: 14;  Age-appropriate: 6; Classification: D
+(14)  Category: Figure;  Serial Number: 0346965428;  Name: Army men;  Brand: Gamezoid;  Price: 238.78;  Available-count: 8;  Age-appropriate: 4; Classification: D
+(15)  Category: Figure;  Serial Number: 0845728850;  Name: Barbie;  Brand: Game Buff;  Price: 60.10;  Available-count: 13;  Age-appropriate: 8; Classification: D
+(16)  Category: Figure;  Serial Number: 1579214984;  Name: Beethoven;  Brand: Game Loop;  Price: 15.36;  Available-count: 12;  Age-appropriate: 6; Classification: A
+(17)  Category: Figure;  Serial Number: 1200457201;  Name: Isaac Newton;  Brand: Gamen;  Price: 0.33;  Available-count: 11;  Age-appropriate: 3; Classification: H
+(18)  Category: Figure;  Serial Number: 0298753495;  Name: Parian doll;  Brand: Game Buff;  Price: 206.13;  Available-count: 1;  Age-appropriate: 9; Classification: A
+(19)  Category: Figure;  Serial Number: 1128983567;  Name: American Girl;  Brand: Game Shadow;  Price: 14.22;  Available-count: 5;  Age-appropriate: 8; Classification: A
+(20)  Category: Figure;  Serial Number: 0131612280;  Name: Peg wooden doll;  Brand: Game Loop;  Price: 66.06;  Available-count: 4;  Age-appropriate: 3; Classification: H
+(21)  Category: Figure;  Serial Number: 0496522522;  Name: Anatomically correct doll;  Brand: Game Rush;  Price: 171.46;  Available-count: 13;  Age-appropriate: 8; Classification: H
+(22)  Category: Figure;  Serial Number: 1333295538;  Name: Ball-jointed doll;  Brand: Gameara;  Price: 14.49;  Available-count: 10;  Age-appropriate: 3; Classification: A
+(23)  Category: Figure;  Serial Number: 1411602724;  Name: Frozen Charlotte;  Brand: Game Sky;  Price: 32.99;  Available-count: 6;  Age-appropriate: 8; Classification: A
+(24)  Category: Figure;  Serial Number: 0766777773;  Name: Fashion doll;  Brand: Game Sky;  Price: 42.18;  Available-count: 12;  Age-appropriate: 3; Classification: D
+(25)  Category: Figure;  Serial Number: 1091374555;  Name: William Shakespeare;  Brand: Game Sky;  Price: 70.86;  Available-count: 14;  Age-appropriate: 2; Classification: H
+(26)  Category: Figure;  Serial Number: 0412938521;  Name: Troll doll;  Brand: Game Sky;  Price: 90.67;  Available-count: 3;  Age-appropriate: 3; Classification: D
+(27)  Category: Figure;  Serial Number: 0902986179;  Name: Celebrity doll;  Brand: Game Orc;  Price: 28.06;  Available-count: 2;  Age-appropriate: 10; Classification: H
+(28)  Category: Figure;  Serial Number: 1361154872;  Name: Topsy-Turvy doll;  Brand: Game Survival;  Price: 287.91;  Available-count: 8;  Age-appropriate: 3; Classification: H
+(29)  Category: Figure;  Serial Number: 0642429383;  Name: Julius Caesar;  Brand: Game Demon;  Price: 110.79;  Available-count: 5;  Age-appropriate: 4; Classification: D
+(30)  Category: Figure;  Serial Number: 0069265270;  Name: Amish doll;  Brand: Game Mafia;  Price: 25.59;  Available-count: 2;  Age-appropriate: 6; Classification: H
+(31)  Category: Figure;  Serial Number: 1559749393;  Name: Star Wars;  Brand: Game Demon;  Price: 97.22;  Available-count: 3;  Age-appropriate: 8; Classification: H
+(32)  Category: Figure;  Serial Number: 1698543210;  Name: Cabbage Patch Kids;  Brand: Game Loop;  Price: 148.55;  Available-count: 6;  Age-appropriate: 10; Classification: D
+(33)  Category: Figure;  Serial Number: 1661435290;  Name: Voodoo doll;  Brand: Game Loop;  Price: 198.63;  Available-count: 3;  Age-appropriate: 4; Classification: A
+(34)  Category: Figure;  Serial Number: 1024162826;  Name: Japanese traditional dolls;  Brand: Game Demon;  Price: 139.99;  Available-count: 12;  Age-appropriate: 7; Classification: H
+(35)  Category: Figure;  Serial Number: 1295451746;  Name: Christopher Columbus;  Brand: Gamearo;  Price: 227.67;  Available-count: 9;  Age-appropriate: 4; Classification: H
+(36)  Category: Figure;  Serial Number: 1672553954;  Name: Queen Victoria;  Brand: Game Mafia;  Price: 18.29;  Available-count: 2;  Age-appropriate: 6; Classification: A
+(37)  Category: Figure;  Serial Number: 1396272830;  Name: Power Rangers;  Brand: Game Mach;  Price: 277.40;  Available-count: 12;  Age-appropriate: 5; Classification: A
+(38)  Category: Figure;  Serial Number: 1778180329;  Name: George Washington;  Brand: Gamegenix;  Price: 192.31;  Available-count: 12;  Age-appropriate: 8; Classification: H
+(39)  Category: Puzzles;  Serial Number: 5726898779;  Name: Pocket Cube;  Brand: Game Orc;  Price: 42.83;  Available-count: 1;  Age-appropriate: 4; Puzzle-type: M
+(40)  Category: Puzzles;  Serial Number: 4863437054;  Name: Logic puzzle;  Brand: Game Shadow;  Price: 265.62;  Available-count: 11;  Age-appropriate: 4; Puzzle-type: T
+(41)  Category: Puzzles;  Serial Number: 6114587612;  Name: Morpion solitaire;  Brand: Game Rush;  Price: 47.89;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: L
+(42)  Category: Puzzles;  Serial Number: 4774316121;  Name: Snake cube;  Brand: Game Sensor;  Price: 184.21;  Available-count: 9;  Age-appropriate: 3; Puzzle-type: C
+(43)  Category: Puzzles;  Serial Number: 4084960372;  Name: Sudoku;  Brand: Game Shadow;  Price: 264.27;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: L
+(44)  Category: Puzzles;  Serial Number: 6602785768;  Name: Chess puzzle;  Brand: Gameara;  Price: 19.44;  Available-count: 13;  Age-appropriate: 5; Puzzle-type: M
+(45)  Category: Puzzles;  Serial Number: 6019930308;  Name: Tsumeshogi;  Brand: Game Rush;  Price: 250.13;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: M
+(46)  Category: Puzzles;  Serial Number: 4079383569;  Name: Daughter in the box;  Brand: Game Pixel;  Price: 90.01;  Available-count: 13;  Age-appropriate: 10; Puzzle-type: M
+(47)  Category: Puzzles;  Serial Number: 4731499724;  Name: Problem solving;  Brand: Game Sensor;  Price: 93.08;  Available-count: 11;  Age-appropriate: 7; Puzzle-type: C
+(48)  Category: Puzzles;  Serial Number: 4353818087;  Name: Eight queens puzzle;  Brand: Gamescape;  Price: 15.69;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: C
+(49)  Category: Puzzles;  Serial Number: 6045331143;  Name: Computer puzzle game;  Brand: Game Survival;  Price: 98.77;  Available-count: 13;  Age-appropriate: 4; Puzzle-type: T
+(50)  Category: Puzzles;  Serial Number: 5645765685;  Name: Ball-in-a-maze puzzle;  Brand: Game Zombie;  Price: 206.65;  Available-count: 9;  Age-appropriate: 2; Puzzle-type: C
+(51)  Category: Puzzles;  Serial Number: 5239019250;  Name: Nob Yoshigahara Puzzle Design Competition;  Brand: Game Zombie;  Price: 67.20;  Available-count: 5;  Age-appropriate: 3; Puzzle-type: M
+(52)  Category: Puzzles;  Serial Number: 6001104201;  Name: Tour puzzle;  Brand: Gamefluent;  Price: 114.71;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(53)  Category: Puzzles;  Serial Number: 5446463966;  Name: Rubik's Magic;  Brand: Game Sensor;  Price: 15.71;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: C
+(54)  Category: Puzzles;  Serial Number: 5972333473;  Name: Knights and knaves;  Brand: Game Buff;  Price: 106.99;  Available-count: 2;  Age-appropriate: 7; Puzzle-type: M
+(55)  Category: Puzzles;  Serial Number: 5030016202;  Name: Gry;  Brand: Gamearo;  Price: 89.11;  Available-count: 12;  Age-appropriate: 7; Puzzle-type: C
+(56)  Category: Puzzles;  Serial Number: 6596226544;  Name: Rattle puzzle;  Brand: Gameara;  Price: 43.21;  Available-count: 5;  Age-appropriate: 8; Puzzle-type: T
+(57)  Category: Puzzles;  Serial Number: 4831187177;  Name: Tiling puzzle;  Brand: Game Rush;  Price: 85.60;  Available-count: 1;  Age-appropriate: 6; Puzzle-type: L
+(58)  Category: Puzzles;  Serial Number: 5411798199;  Name: Logo extraction puzzle;  Brand: Game Rush;  Price: 201.47;  Available-count: 8;  Age-appropriate: 6; Puzzle-type: C
+(59)  Category: Puzzles;  Serial Number: 4661866503;  Name: Maze;  Brand: Gamearo;  Price: 46.84;  Available-count: 4;  Age-appropriate: 2; Puzzle-type: L
+(60)  Category: Puzzles;  Serial Number: 6375942616;  Name: Graeco-Latin square;  Brand: Game Rush;  Price: 74.07;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: M
+(61)  Category: Puzzles;  Serial Number: 5880146101;  Name: Wire puzzle;  Brand: Gamearo;  Price: 128.90;  Available-count: 10;  Age-appropriate: 9; Puzzle-type: M
+(62)  Category: Puzzles;  Serial Number: 6583467137;  Name: Paint by numbers;  Brand: Game Loop;  Price: 287.38;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: T
+(63)  Category: Puzzles;  Serial Number: 5242279001;  Name: Induction puzzles;  Brand: Game Zombie;  Price: 31.47;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: T
+(64)  Category: Puzzles;  Serial Number: 5442572423;  Name: Mathematical puzzle;  Brand: Game Buff;  Price: 237.77;  Available-count: 13;  Age-appropriate: 5; Puzzle-type: L
+(65)  Category: Puzzles;  Serial Number: 6018470981;  Name: Fox, goose and bag of beans puzzle;  Brand: Gamearo;  Price: 21.69;  Available-count: 7;  Age-appropriate: 5; Puzzle-type: L
+(66)  Category: Puzzles;  Serial Number: 5307695541;  Name: Brain teaser;  Brand: Game Zombie;  Price: 4.74;  Available-count: 11;  Age-appropriate: 2; Puzzle-type: L
+(67)  Category: Puzzles;  Serial Number: 4639887432;  Name: Speedcubing;  Brand: Game Assassin;  Price: 62.35;  Available-count: 14;  Age-appropriate: 2; Puzzle-type: T
+(68)  Category: Puzzles;  Serial Number: 4627106401;  Name: Lateral thinking;  Brand: Game Survival;  Price: 21.19;  Available-count: 7;  Age-appropriate: 4; Puzzle-type: C
+(69)  Category: Puzzles;  Serial Number: 4935699431;  Name: Tangram;  Brand: Gamen;  Price: 291.57;  Available-count: 12;  Age-appropriate: 10; Puzzle-type: C
+(70)  Category: Puzzles;  Serial Number: 5958291403;  Name: Cryptogram;  Brand: Game Survival;  Price: 128.95;  Available-count: 2;  Age-appropriate: 7; Puzzle-type: C
+(71)  Category: Puzzles;  Serial Number: 6445676597;  Name: Sliding puzzle;  Brand: Game Buff;  Price: 42.05;  Available-count: 4;  Age-appropriate: 4; Puzzle-type: L
+(72)  Category: Puzzles;  Serial Number: 6886557808;  Name: Nikoli;  Brand: Gamen;  Price: 66.10;  Available-count: 8;  Age-appropriate: 4; Puzzle-type: M
+(73)  Category: Puzzles;  Serial Number: 5494530303;  Name: Plate-and-ring puzzle;  Brand: Gamearo;  Price: 12.51;  Available-count: 3;  Age-appropriate: 4; Puzzle-type: M
+(74)  Category: Puzzles;  Serial Number: 5220088189;  Name: Mahjong solitaire;  Brand: Gameado;  Price: 176.03;  Available-count: 1;  Age-appropriate: 10; Puzzle-type: T
+(75)  Category: Puzzles;  Serial Number: 5114057845;  Name: Insight;  Brand: Game Throne;  Price: 100.14;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: M
+(76)  Category: Puzzles;  Serial Number: 4463241698;  Name: KenKen;  Brand: Game Assassin;  Price: 93.29;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: T
+(77)  Category: Puzzles;  Serial Number: 5882978986;  Name: Latin square;  Brand: Game Rush;  Price: 130.74;  Available-count: 3;  Age-appropriate: 2; Puzzle-type: L
+(78)  Category: Puzzles;  Serial Number: 5970554935;  Name: Letter bank;  Brand: Gamezoid;  Price: 107.75;  Available-count: 11;  Age-appropriate: 2; Puzzle-type: M
+(79)  Category: Puzzles;  Serial Number: 6388328760;  Name: Sokoban;  Brand: Gamefluent;  Price: 64.51;  Available-count: 2;  Age-appropriate: 3; Puzzle-type: T
+(80)  Category: Puzzles;  Serial Number: 6333851004;  Name: Egg of Columbus;  Brand: Gameado;  Price: 0.33;  Available-count: 10;  Age-appropriate: 4; Puzzle-type: C
+(81)  Category: Puzzles;  Serial Number: 5012387837;  Name: Cryptic crossword;  Brand: Game Pixel;  Price: 12.14;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: C
+(82)  Category: Puzzles;  Serial Number: 5240256540;  Name: Prisoners and hats puzzle;  Brand: Game Survival;  Price: 28.02;  Available-count: 6;  Age-appropriate: 4; Puzzle-type: T
+(83)  Category: Puzzles;  Serial Number: 6401250594;  Name: Disentanglement puzzle;  Brand: Game Throne;  Price: 213.09;  Available-count: 1;  Age-appropriate: 3; Puzzle-type: C
+(84)  Category: Puzzles;  Serial Number: 4205059343;  Name: Jigsaw puzzle;  Brand: Gamegenix;  Price: 67.37;  Available-count: 8;  Age-appropriate: 8; Puzzle-type: T
+(85)  Category: Puzzles;  Serial Number: 4599428616;  Name: Back from the klondike;  Brand: Gamearo;  Price: 29.29;  Available-count: 7;  Age-appropriate: 3; Puzzle-type: M
+(86)  Category: Puzzles;  Serial Number: 5466369452;  Name: Minus Cube;  Brand: Game Sensor;  Price: 98.61;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(87)  Category: Puzzles;  Serial Number: 6507258098;  Name: Anagram;  Brand: Gamefluent;  Price: 77.30;  Available-count: 3;  Age-appropriate: 2; Puzzle-type: L
+(88)  Category: Puzzles;  Serial Number: 5708657865;  Name: Three cups problem;  Brand: Game Buff;  Price: 6.05;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: L
+(89)  Category: Puzzles;  Serial Number: 5009922251;  Name: Magic square;  Brand: Game Sensor;  Price: 43.81;  Available-count: 12;  Age-appropriate: 2; Puzzle-type: C
+(90)  Category: Puzzles;  Serial Number: 6929408397;  Name: Chess problem;  Brand: Game Survival;  Price: 10.62;  Available-count: 14;  Age-appropriate: 4; Puzzle-type: T
+(91)  Category: Puzzles;  Serial Number: 5102451719;  Name: Three-cottage problem;  Brand: Game Shadow;  Price: 33.79;  Available-count: 7;  Age-appropriate: 10; Puzzle-type: C
+(92)  Category: Puzzles;  Serial Number: 6736127390;  Name: Globe puzzle;  Brand: Gamescape;  Price: 82.67;  Available-count: 12;  Age-appropriate: 6; Puzzle-type: M
+(93)  Category: Puzzles;  Serial Number: 4355449938;  Name: Situation puzzle;  Brand: Game Demon;  Price: 224.72;  Available-count: 12;  Age-appropriate: 9; Puzzle-type: M
+(94)  Category: Puzzles;  Serial Number: 4150799965;  Name: Packing problem;  Brand: Game Rush;  Price: 21.59;  Available-count: 13;  Age-appropriate: 4; Puzzle-type: M
+(95)  Category: Puzzles;  Serial Number: 4459648851;  Name: Crossword puzzle;  Brand: Game Rush;  Price: 278.72;  Available-count: 8;  Age-appropriate: 5; Puzzle-type: C
+(96)  Category: Puzzles;  Serial Number: 6147356663;  Name: Edge-matching puzzle;  Brand: Gamescape;  Price: 6.28;  Available-count: 12;  Age-appropriate: 10; Puzzle-type: M
+(97)  Category: Puzzles;  Serial Number: 6678014194;  Name: Stick puzzle;  Brand: Game Assassin;  Price: 295.52;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: C
+(98)  Category: Puzzles;  Serial Number: 5637161167;  Name: Kakuro;  Brand: Gamearo;  Price: 0.33;  Available-count: 14;  Age-appropriate: 5; Puzzle-type: M
+(99)  Category: Puzzles;  Serial Number: 6957748827;  Name: Rubik's Revenge;  Brand: Game Loop;  Price: 73.88;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: C
+(100)  Category: Puzzles;  Serial Number: 4401933289;  Name: Tower of Hanoi;  Brand: Gameara;  Price: 78.96;  Available-count: 5;  Age-appropriate: 3; Puzzle-type: C
+(101)  Category: Puzzles;  Serial Number: 5140173358;  Name: Wire-and-string puzzle;  Brand: Game Survival;  Price: 260.31;  Available-count: 13;  Age-appropriate: 3; Puzzle-type: T
+(102)  Category: Puzzles;  Serial Number: 5059382936;  Name: Mechanical puzzle;  Brand: Game Buff;  Price: 240.06;  Available-count: 3;  Age-appropriate: 6; Puzzle-type: T
+(103)  Category: Puzzles;  Serial Number: 6717226220;  Name: Riddles;  Brand: Game Buff;  Price: 98.84;  Available-count: 10;  Age-appropriate: 8; Puzzle-type: L
+(104)  Category: Puzzles;  Serial Number: 5419349327;  Name: Burr puzzle;  Brand: Game Reboot;  Price: 227.21;  Available-count: 11;  Age-appropriate: 4; Puzzle-type: L
+(105)  Category: Puzzles;  Serial Number: 4772797789;  Name: Merkle's Puzzles;  Brand: Game Sensor;  Price: 69.99;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: T
+(106)  Category: Puzzles;  Serial Number: 6270173616;  Name: Knight's Tour;  Brand: Gamescape;  Price: 27.44;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: C
+(107)  Category: Puzzles;  Serial Number: 5380257078;  Name: Geomagic square;  Brand: Game Zombie;  Price: 110.07;  Available-count: 1;  Age-appropriate: 3; Puzzle-type: M
+(108)  Category: Puzzles;  Serial Number: 5236873244;  Name: T puzzle;  Brand: Game Loop;  Price: 222.76;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: L
+(109)  Category: Puzzles;  Serial Number: 4319739200;  Name: Peg solitaire;  Brand: Gamearo;  Price: 53.23;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: M
+(110)  Category: Puzzles;  Serial Number: 4796227955;  Name: Matchstick puzzle;  Brand: Game Survival;  Price: 126.86;  Available-count: 9;  Age-appropriate: 5; Puzzle-type: M
+(111)  Category: Puzzles;  Serial Number: 5964401598;  Name: N-puzzle;  Brand: Gamen;  Price: 0.65;  Available-count: 10;  Age-appropriate: 4; Puzzle-type: M
+(112)  Category: Puzzles;  Serial Number: 5334485537;  Name: Thinking outside the box;  Brand: Game Shadow;  Price: 96.33;  Available-count: 1;  Age-appropriate: 8; Puzzle-type: T
+(113)  Category: Puzzles;  Serial Number: 6245496583;  Name: Bull's Eye[disambiguation needed];  Brand: Game Pixel;  Price: 134.02;  Available-count: 6;  Age-appropriate: 5; Puzzle-type: T
+(114)  Category: Puzzles;  Serial Number: 4771103439;  Name: Rebus;  Brand: Gamegenix;  Price: 64.81;  Available-count: 9;  Age-appropriate: 5; Puzzle-type: M
+(115)  Category: Puzzles;  Serial Number: 6853280706;  Name: Happy Cube;  Brand: Gamegenix;  Price: 77.68;  Available-count: 7;  Age-appropriate: 4; Puzzle-type: M
+(116)  Category: Puzzles;  Serial Number: 4464788387;  Name: Soma cube;  Brand: Gamefluent;  Price: 68.23;  Available-count: 12;  Age-appropriate: 8; Puzzle-type: L
+(117)  Category: Puzzles;  Serial Number: 4844180696;  Name: Cross Sums;  Brand: Game Mach;  Price: 73.86;  Available-count: 4;  Age-appropriate: 4; Puzzle-type: L
+(118)  Category: Puzzles;  Serial Number: 5905553294;  Name: Alpha Triangle;  Brand: Game Mafia;  Price: 17.55;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(119)  Category: Puzzles;  Serial Number: 6855604945;  Name: Fifteen puzzle;  Brand: Gameado;  Price: 98.72;  Available-count: 10;  Age-appropriate: 9; Puzzle-type: M
+(120)  Category: Puzzles;  Serial Number: 5978960341;  Name: Pirate loot problem;  Brand: Game Assassin;  Price: 15.30;  Available-count: 7;  Age-appropriate: 3; Puzzle-type: T
+(121)  Category: Puzzles;  Serial Number: 6487767393;  Name: Nurikabe;  Brand: Game Loop;  Price: 67.28;  Available-count: 5;  Age-appropriate: 2; Puzzle-type: C
+(122)  Category: Puzzles;  Serial Number: 4058104820;  Name: Rubik's Cube;  Brand: Game Throne;  Price: 48.09;  Available-count: 8;  Age-appropriate: 8; Puzzle-type: C
+(123)  Category: Puzzles;  Serial Number: 4576216782;  Name: Eternity puzzle;  Brand: Game Throne;  Price: 61.67;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: T
+(124)  Category: Puzzles;  Serial Number: 5248837254;  Name: Lock puzzle;  Brand: Game Sky;  Price: 32.29;  Available-count: 5;  Age-appropriate: 2; Puzzle-type: M
+(125)  Category: Puzzles;  Serial Number: 5247156109;  Name: Verbal arithmetic;  Brand: Gameado;  Price: 8.29;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: M
+(126)  Category: Puzzles;  Serial Number: 4585852723;  Name: Tsumego;  Brand: Game Sky;  Price: 292.41;  Available-count: 7;  Age-appropriate: 8; Puzzle-type: M
+(127)  Category: Puzzles;  Serial Number: 5279323659;  Name: Einstein's Puzzle;  Brand: Game Demon;  Price: 182.61;  Available-count: 3;  Age-appropriate: 6; Puzzle-type: T
+(128)  Category: Puzzles;  Serial Number: 4134304987;  Name: Pentomino;  Brand: Game Reboot;  Price: 59.30;  Available-count: 9;  Age-appropriate: 8; Puzzle-type: L
+(129)  Category: Puzzles;  Serial Number: 4662861666;  Name: Acrostic;  Brand: Game Pixel;  Price: 70.84;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: T
+(130)  Category: Animals;  Serial Number: 2835360879;  Name: Cow;  Brand: Game Assassin;  Price: 19.52;  Available-count: 3;  Age-appropriate: 7;  Material: Plastic;  Size: M
+(131)  Category: Animals;  Serial Number: 3066990646;  Name: Horse;  Brand: Gamescape;  Price: 165.61;  Available-count: 1;  Age-appropriate: 7;  Material: Wooden;  Size: L
+(132)  Category: Animals;  Serial Number: 3015547049;  Name: Dove;  Brand: Game Zombie;  Price: 24.55;  Available-count: 2;  Age-appropriate: 9;  Material: Wooden;  Size: S
+(133)  Category: Animals;  Serial Number: 2804598463;  Name: Kangaroo;  Brand: Gamefluent;  Price: 289.37;  Available-count: 14;  Age-appropriate: 6;  Material: Wooden;  Size: S
+(134)  Category: Animals;  Serial Number: 3899783893;  Name: Turkey;  Brand: Game Buff;  Price: 11.74;  Available-count: 13;  Age-appropriate: 8;  Material: Plastic;  Size: M
+(135)  Category: Animals;  Serial Number: 2770204747;  Name: Chicken;  Brand: Gameara;  Price: 22.89;  Available-count: 4;  Age-appropriate: 9;  Material: Fabric;  Size: M
+(136)  Category: Animals;  Serial Number: 2656739862;  Name: Bee;  Brand: Gamen;  Price: 94.30;  Available-count: 9;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(137)  Category: Animals;  Serial Number: 3424511521;  Name: Otter;  Brand: Game Sky;  Price: 3.07;  Available-count: 8;  Age-appropriate: 7;  Material: Fabric;  Size: L
+(138)  Category: Animals;  Serial Number: 2399837756;  Name: Coyote;  Brand: Game Rush;  Price: 99.83;  Available-count: 2;  Age-appropriate: 5;  Material: Wooden;  Size: L
+(139)  Category: Animals;  Serial Number: 2797548530;  Name: Mouse;  Brand: Gameara;  Price: 14.53;  Available-count: 14;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(140)  Category: Animals;  Serial Number: 3690664040;  Name: Turtle;  Brand: Game Sensor;  Price: 223.01;  Available-count: 13;  Age-appropriate: 8;  Material: Fabric;  Size: M
+(141)  Category: Animals;  Serial Number: 3131436838;  Name: Giraffe;  Brand: Game Reboot;  Price: 94.57;  Available-count: 6;  Age-appropriate: 8;  Material: Wooden;  Size: L
+(142)  Category: Animals;  Serial Number: 2296386544;  Name: Chimpanzee;  Brand: Gamefluent;  Price: 12.89;  Available-count: 12;  Age-appropriate: 10;  Material: Fabric;  Size: L
+(143)  Category: Animals;  Serial Number: 2657125753;  Name: Pig;  Brand: Game Assassin;  Price: 192.93;  Available-count: 3;  Age-appropriate: 8;  Material: Wooden;  Size: M
+(144)  Category: Animals;  Serial Number: 3045978973;  Name: Goat;  Brand: Game Assassin;  Price: 225.70;  Available-count: 5;  Age-appropriate: 4;  Material: Wooden;  Size: M
+(145)  Category: Animals;  Serial Number: 2708237084;  Name: Cat;  Brand: Gamescape;  Price: 48.58;  Available-count: 9;  Age-appropriate: 2;  Material: Fabric;  Size: S
+(146)  Category: Animals;  Serial Number: 2753759364;  Name: Goldfish;  Brand: Game Reboot;  Price: 140.93;  Available-count: 13;  Age-appropriate: 9;  Material: Wooden;  Size: L
+(147)  Category: Animals;  Serial Number: 2342281667;  Name: Lion;  Brand: Game Throne;  Price: 14.07;  Available-count: 14;  Age-appropriate: 10;  Material: Wooden;  Size: M
+(148)  Category: Animals;  Serial Number: 3687310778;  Name: Hedgehong;  Brand: Gamezoid;  Price: 154.18;  Available-count: 3;  Age-appropriate: 4;  Material: Fabric;  Size: L
+(149)  Category: Animals;  Serial Number: 3192989816;  Name: Hippopotamus;  Brand: Game Zombie;  Price: 112.34;  Available-count: 13;  Age-appropriate: 9;  Material: Fabric;  Size: S
+(150)  Category: Animals;  Serial Number: 2840084672;  Name: Sheep;  Brand: Gamezoid;  Price: 3.48;  Available-count: 2;  Age-appropriate: 10;  Material: Wooden;  Size: L
+(151)  Category: Animals;  Serial Number: 2226330136;  Name: Dog;  Brand: Game Rush;  Price: 32.26;  Available-count: 14;  Age-appropriate: 10;  Material: Wooden;  Size: S
+(152)  Category: Animals;  Serial Number: 2175242587;  Name: Elephant;  Brand: Game Survival;  Price: 210.95;  Available-count: 13;  Age-appropriate: 10;  Material: Wooden;  Size: M
+(153)  Category: Animals;  Serial Number: 3226057634;  Name: Mouse;  Brand: Game Mach;  Price: 206.68;  Available-count: 9;  Age-appropriate: 5;  Material: Wooden;  Size: S
+(154)  Category: Animals;  Serial Number: 2113996461;  Name: Panda;  Brand: Game Sensor;  Price: 254.38;  Available-count: 4;  Age-appropriate: 6;  Material: Plastic;  Size: L
+(155)  Category: Animals;  Serial Number: 3412976858;  Name: Puppy;  Brand: Game Mach;  Price: 10.89;  Available-count: 6;  Age-appropriate: 6;  Material: Wooden;  Size: S
+(156)  Category: Animals;  Serial Number: 2627898001;  Name: Parrot;  Brand: Gameara;  Price: 30.03;  Available-count: 11;  Age-appropriate: 9;  Material: Fabric;  Size: M
+(157)  Category: Animals;  Serial Number: 3255102735;  Name: Monkey;  Brand: Game Zombie;  Price: 76.93;  Available-count: 9;  Age-appropriate: 2;  Material: Plastic;  Size: M
+(158)  Category: Animals;  Serial Number: 3110807827;  Name: Hamster;  Brand: Game Demon;  Price: 96.97;  Available-count: 2;  Age-appropriate: 4;  Material: Plastic;  Size: S
+(159)  Category: Animals;  Serial Number: 2586025992;  Name: Koala;  Brand: Game Shadow;  Price: 270.32;  Available-count: 9;  Age-appropriate: 10;  Material: Fabric;  Size: L
+(160)  Category: Animals;  Serial Number: 2857921221;  Name: Fox;  Brand: Game Mafia;  Price: 46.52;  Available-count: 4;  Age-appropriate: 10;  Material: Plastic;  Size: L
+(161)  Category: Animals;  Serial Number: 2029859334;  Name: Goat;  Brand: Game Shadow;  Price: 121.91;  Available-count: 11;  Age-appropriate: 5;  Material: Plastic;  Size: L
+(162)  Category: Animals;  Serial Number: 2454855569;  Name: Deer;  Brand: Game Sensor;  Price: 65.02;  Available-count: 7;  Age-appropriate: 3;  Material: Plastic;  Size: M
+(163)  Category: Animals;  Serial Number: 2432451871;  Name: Leopard;  Brand: Game Mafia;  Price: 106.32;  Available-count: 12;  Age-appropriate: 3;  Material: Plastic;  Size: L
+(164)  Category: Animals;  Serial Number: 3342647215;  Name: Mole;  Brand: Gamegenix;  Price: 93.35;  Available-count: 7;  Age-appropriate: 10;  Material: Plastic;  Size: S
+(165)  Category: Animals;  Serial Number: 3015093594;  Name: Horse;  Brand: Gamefluent;  Price: 63.69;  Available-count: 2;  Age-appropriate: 2;  Material: Plastic;  Size: S
+(166)  Category: Animals;  Serial Number: 3679935385;  Name: Kitten;  Brand: Game Mafia;  Price: 21.00;  Available-count: 5;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(167)  Category: Animals;  Serial Number: 3315715666;  Name: owl;  Brand: Gamearo;  Price: 191.76;  Available-count: 13;  Age-appropriate: 6;  Material: Fabric;  Size: L
+(168)  Category: Animals;  Serial Number: 2873391970;  Name: Squirrel;  Brand: Game Buff;  Price: 163.69;  Available-count: 5;  Age-appropriate: 2;  Material: Plastic;  Size: L
+(169)  Category: Animals;  Serial Number: 2629048960;  Name: Ducks;  Brand: Gamezoid;  Price: 47.43;  Available-count: 1;  Age-appropriate: 6;  Material: Fabric;  Size: S
+(170)  Category: Animals;  Serial Number: 3737738613;  Name: Deer;  Brand: Game Pixel;  Price: 182.28;  Available-count: 5;  Age-appropriate: 8;  Material: Fabric;  Size: L
+(171)  Category: Animals;  Serial Number: 3337731148;  Name: Rabbit;  Brand: Gameado;  Price: 63.90;  Available-count: 12;  Age-appropriate: 7;  Material: Fabric;  Size: S
+(172)  Category: Board Games;  Serial Number: 8616804705;  Name: Mikado;  Brand: Game Pixel;  Price: 9.32;  Available-count: 9;  Age-appropriate: 9;  # of payers: 1-4;  Designer(s): Haniya Woodley
+(173)  Category: Board Games;  Serial Number: 9074383778;  Name: Blue Max;  Brand: Gamearo;  Price: 199.37;  Available-count: 11;  Age-appropriate: 2;  # of payers: 1-3;  Designer(s): Rojin Poole
+(174)  Category: Board Games;  Serial Number: 7837317368;  Name: TEG;  Brand: Game Reboot;  Price: 76.34;  Available-count: 1;  Age-appropriate: 8;  # of payers: 1-3;  Designer(s): Milla Baxter
+(175)  Category: Board Games;  Serial Number: 8685655988;  Name: Betrayal at House on the Hill;  Brand: Gamegenix;  Price: 131.52;  Available-count: 9;  Age-appropriate: 6;  # of payers: 2-6;  Designer(s): Barney Lugo,Yu Zimmerman
+(176)  Category: Board Games;  Serial Number: 7235647474;  Name: 13 Dead End Drive;  Brand: Game Assassin;  Price: 55.18;  Available-count: 10;  Age-appropriate: 9;  # of payers: 1-8;  Designer(s): Emeli Davis
+(177)  Category: Board Games;  Serial Number: 8947640910;  Name: Exploding Kittens;  Brand: Game Pixel;  Price: 73.07;  Available-count: 9;  Age-appropriate: 3;  # of payers: 2-4;  Designer(s): Haniya Woodley,Ruairidh Larsen
+(178)  Category: Board Games;  Serial Number: 9258568559;  Name: Jenga;  Brand: Game Reboot;  Price: 49.34;  Available-count: 10;  Age-appropriate: 7;  # of payers: 2-7;  Designer(s): Maryam Mcdonnell,Shanaya Walter
+(179)  Category: Board Games;  Serial Number: 7734720369;  Name: Doom: The Boardgame;  Brand: Gamefluent;  Price: 174.24;  Available-count: 10;  Age-appropriate: 7;  # of payers: 2-5;  Designer(s): Miller Knights
+(180)  Category: Board Games;  Serial Number: 8934865506;  Name: Djambi;  Brand: Game Shadow;  Price: 78.76;  Available-count: 3;  Age-appropriate: 6;  # of payers: 2-6;  Designer(s): T-Jay Harper,Marshall Swanson
+(181)  Category: Board Games;  Serial Number: 7393662390;  Name: Star Wars Tactics;  Brand: Game Loop;  Price: 3.44;  Available-count: 3;  Age-appropriate: 2;  # of payers: 1-5;  Designer(s): Ruairidh Larsen
+(182)  Category: Board Games;  Serial Number: 9399563748;  Name: Monopoly;  Brand: Game Survival;  Price: 47.52;  Available-count: 4;  Age-appropriate: 3;  # of payers: 2-5;  Designer(s): Usama Salas
+(183)  Category: Board Games;  Serial Number: 9898959982;  Name: Terakh;  Brand: Gamefluent;  Price: 236.57;  Available-count: 2;  Age-appropriate: 6;  # of payers: 1-5;  Designer(s): Osian Hendricks
+(184)  Category: Board Games;  Serial Number: 9527795179;  Name: Summit;  Brand: Game Orc;  Price: 204.74;  Available-count: 11;  Age-appropriate: 4;  # of payers: 1-4;  Designer(s): Milla Baxter,Troy Mcbride
+(185)  Category: Board Games;  Serial Number: 9138814396;  Name: Titan;  Brand: Game Reboot;  Price: 65.95;  Available-count: 13;  Age-appropriate: 4;  # of payers: 2-3;  Designer(s): Shakeel Mcintyre,Maryam Mcdonnell
+(186)  Category: Board Games;  Serial Number: 7089315414;  Name: Tsuro;  Brand: Gamen;  Price: 176.91;  Available-count: 1;  Age-appropriate: 5;  # of payers: 1-5;  Designer(s): Maryam Mcdonnell
+(187)  Category: Board Games;  Serial Number: 7785377855;  Name: Bang!;  Brand: Game Pixel;  Price: 89.51;  Available-count: 9;  Age-appropriate: 7;  # of payers: 1-5;  Designer(s): Marshall Swanson,Lana Thatcher
+(188)  Category: Board Games;  Serial Number: 7211390797;  Name: Poleconomy;  Brand: Game Throne;  Price: 211.94;  Available-count: 5;  Age-appropriate: 10;  # of payers: 1-3;  Designer(s): Barney Lugo
+(189)  Category: Board Games;  Serial Number: 7088724445;  Name: Clue Jr.: Case of the Missing Pet;  Brand: Game Reboot;  Price: 97.22;  Available-count: 6;  Age-appropriate: 7;  # of payers: 1-8;  Designer(s): Harpreet Reilly,Kaylan Scott
+(190)  Category: Board Games;  Serial Number: 9150054745;  Name: King of Tokyo;  Brand: Gamegenix;  Price: 223.23;  Available-count: 5;  Age-appropriate: 8;  # of payers: 1-7;  Designer(s): Marshall Swanson,Marshall Swanson
+(191)  Category: Board Games;  Serial Number: 8362861720;  Name: Heroscape;  Brand: Game Pixel;  Price: 132.21;  Available-count: 7;  Age-appropriate: 8;  # of payers: 2-3;  Designer(s): Lana Thatcher
+(192)  Category: Board Games;  Serial Number: 7586140827;  Name: Battle Sheep;  Brand: Game Sensor;  Price: 266.57;  Available-count: 14;  Age-appropriate: 9;  # of payers: 2-5;  Designer(s): Shakeel Mcintyre
+(193)  Category: Board Games;  Serial Number: 7001540358;  Name: Ghettopoly;  Brand: Gamen;  Price: 7.35;  Available-count: 10;  Age-appropriate: 5;  # of payers: 2-5;  Designer(s): T-Jay Harper
+(194)  Category: Board Games;  Serial Number: 9493833470;  Name: Ludo;  Brand: Game Mafia;  Price: 145.95;  Available-count: 14;  Age-appropriate: 6;  # of payers: 1-5;  Designer(s): Osian Hendricks,Ayva Gibbs
+(195)  Category: Board Games;  Serial Number: 7397838299;  Name: Axis & Allies;  Brand: Game Mach;  Price: 6.98;  Available-count: 7;  Age-appropriate: 6;  # of payers: 1-8;  Designer(s): Maryam Mcdonnell,Yu Zimmerman
+(196)  Category: Board Games;  Serial Number: 9649393637;  Name: Finance;  Brand: Game Assassin;  Price: 5.48;  Available-count: 7;  Age-appropriate: 10;  # of payers: 2-3;  Designer(s): Arham Friedman,Marshall Swanson
+(197)  Category: Board Games;  Serial Number: 8987410474;  Name: Bookchase;  Brand: Game Mach;  Price: 97.72;  Available-count: 9;  Age-appropriate: 9;  # of payers: 2-3;  Designer(s): T-Jay Harper,Marshall Swanson
+(198)  Category: Board Games;  Serial Number: 9336740135;  Name: Glückshaus;  Brand: Game Orc;  Price: 61.77;  Available-count: 12;  Age-appropriate: 6;  # of payers: 1-4;  Designer(s): Diego Hills,Diego Hills
+(199)  Category: Board Games;  Serial Number: 8584372936;  Name: American Megafauna;  Brand: Game Loop;  Price: 38.49;  Available-count: 7;  Age-appropriate: 2;  # of payers: 1-3;  Designer(s): Harpreet Reilly
+(200)  Category: Board Games;  Serial Number: 8840576104;  Name: Tsuro of the Seas;  Brand: Game Sensor;  Price: 175.98;  Available-count: 6;  Age-appropriate: 2;  # of payers: 1-4;  Designer(s): Axel Johnson
+(201)  Category: Board Games;  Serial Number: 8999104279;  Name: Blokus;  Brand: Gamearo;  Price: 76.78;  Available-count: 11;  Age-appropriate: 10;  # of payers: 2-6;  Designer(s): Kerrie Escobar
+(202)  Category: Board Games;  Serial Number: 7643992605;  Name: Shengguan Tu;  Brand: Game Buff;  Price: 67.78;  Available-count: 3;  Age-appropriate: 7;  # of payers: 1-8;  Designer(s): Shanaya Walter
+(203)  Category: Board Games;  Serial Number: 9923812551;  Name: Shadow Hunters;  Brand: Game Rush;  Price: 57.02;  Available-count: 3;  Age-appropriate: 7;  # of payers: 1-5;  Designer(s): Marshall Swanson,Diego Hills
+(204)  Category: Board Games;  Serial Number: 9108635194;  Name: Spy Alley;  Brand: Game Orc;  Price: 29.47;  Available-count: 1;  Age-appropriate: 4;  # of payers: 2-4;  Designer(s): Rhiann Worthington,Milla Baxter
+(205)  Category: Board Games;  Serial Number: 8076566788;  Name: Star Wars Epic Duels;  Brand: Game Reboot;  Price: 285.25;  Available-count: 14;  Age-appropriate: 9;  # of payers: 2-3;  Designer(s): Troy Mcbride
+(206)  Category: Board Games;  Serial Number: 8573975959;  Name: War on Terror;  Brand: Game Survival;  Price: 104.63;  Available-count: 7;  Age-appropriate: 9;  # of payers: 2-7;  Designer(s): Maryam Mcdonnell,Osian Hendricks
+(207)  Category: Board Games;  Serial Number: 9056736113;  Name: Khet;  Brand: Game Sky;  Price: 62.11;  Available-count: 5;  Age-appropriate: 2;  # of payers: 1-8;  Designer(s): Ayva Gibbs,Ayva Gibbs
+(208)  Category: Board Games;  Serial Number: 7666840048;  Name: Anti-Monopoly;  Brand: Game Reboot;  Price: 231.32;  Available-count: 8;  Age-appropriate: 8;  # of payers: 2-3;  Designer(s): Marshall Swanson
+(209)  Category: Board Games;  Serial Number: 8441793657;  Name: Solarquest;  Brand: Game Orc;  Price: 112.00;  Available-count: 6;  Age-appropriate: 7;  # of payers: 2-8;  Designer(s): Miller Knights
+(210)  Category: Board Games;  Serial Number: 7824482027;  Name: The Farming Game;  Brand: Game Throne;  Price: 174.14;  Available-count: 13;  Age-appropriate: 4;  # of payers: 1-7;  Designer(s): Miller Knights,Maryam Mcdonnell
+(211)  Category: Board Games;  Serial Number: 7703281617;  Name: Shogun/Samurai Swords;  Brand: Game Demon;  Price: 90.75;  Available-count: 12;  Age-appropriate: 8;  # of payers: 1-3;  Designer(s): Shakeel Mcintyre,Shakeel Mcintyre
+(212)  Category: Board Games;  Serial Number: 9806439465;  Name: Attack!;  Brand: Gamen;  Price: 19.82;  Available-count: 12;  Age-appropriate: 6;  # of payers: 2-6;  Designer(s): Maryam Mcdonnell,Mylie Campbell
+(213)  Category: Board Games;  Serial Number: 9870097486;  Name: Castle Risk;  Brand: Game Sky;  Price: 64.10;  Available-count: 10;  Age-appropriate: 2;  # of payers: 2-4;  Designer(s): Milla Baxter,Harpreet Reilly
+(214)  Category: Board Games;  Serial Number: 7187309492;  Name: Risk;  Brand: Game Sky;  Price: 70.42;  Available-count: 10;  Age-appropriate: 8;  # of payers: 1-6;  Designer(s): Osian Hendricks
+(215)  Category: Board Games;  Serial Number: 9218558662;  Name: The Great Train Robbery;  Brand: Game Zombie;  Price: 6.92;  Available-count: 2;  Age-appropriate: 2;  # of payers: 1-5;  Designer(s): Mylie Campbell,Osian Hendricks
+(216)  Category: Board Games;  Serial Number: 8793598849;  Name: Eclipse;  Brand: Game Sky;  Price: 50.61;  Available-count: 6;  Age-appropriate: 7;  # of payers: 1-5;  Designer(s): Shakeel Mcintyre
+(217)  Category: Board Games;  Serial Number: 9163940865;  Name: Blood Feud in New York;  Brand: Game Mafia;  Price: 25.48;  Available-count: 12;  Age-appropriate: 5;  # of payers: 2-4;  Designer(s): Rojin Poole
+(218)  Category: Board Games;  Serial Number: 8497620960;  Name: Diplomacy;  Brand: Game Sensor;  Price: 58.25;  Available-count: 7;  Age-appropriate: 10;  # of payers: 1-3;  Designer(s): Harpreet Reilly,Axel Johnson
+(219)  Category: Board Games;  Serial Number: 7344775739;  Name: Coppit;  Brand: Game Buff;  Price: 250.19;  Available-count: 9;  Age-appropriate: 2;  # of payers: 2-8;  Designer(s): Mylie Campbell
+(220)  Category: Board Games;  Serial Number: 7854452599;  Name: Hotel;  Brand: Game Sensor;  Price: 82.80;  Available-count: 10;  Age-appropriate: 8;  # of payers: 1-6;  Designer(s): Barney Lugo,T-Jay Harper
+(221)  Category: Board Games;  Serial Number: 7691410700;  Name: Hey, That's My Fish!;  Brand: Game Buff;  Price: 293.78;  Available-count: 9;  Age-appropriate: 4;  # of payers: 1-7;  Designer(s): Barney Lugo
+(222)  Category: Board Games;  Serial Number: 7935086963;  Name: StarCraft: The Board Game;  Brand: Gameado;  Price: 50.81;  Available-count: 5;  Age-appropriate: 7;  # of payers: 1-8;  Designer(s): Emeli Davis
+(223)  Category: Board Games;  Serial Number: 9514194360;  Name: King Oil;  Brand: Game Loop;  Price: 9.65;  Available-count: 12;  Age-appropriate: 7;  # of payers: 2-4;  Designer(s): Haniya Woodley
+(224)  Category: Board Games;  Serial Number: 8085889603;  Name: 1313 Dead End Drive;  Brand: Game Zombie;  Price: 43.54;  Available-count: 10;  Age-appropriate: 10;  # of payers: 1-5;  Designer(s): Marshall Swanson,Mylie Campbell
+(225)  Category: Board Games;  Serial Number: 7596463022;  Name: Strange Synergy;  Brand: Gamefluent;  Price: 80.41;  Available-count: 6;  Age-appropriate: 7;  # of payers: 1-7;  Designer(s): Milla Baxter,Harpreet Reilly
+(1)  Category: Figure;  Serial Number: 1147205649;  Name: Ninja Turtles;  Brand: Gamezoid;  Price: 46.15;  Available-count: 10;  Age-appropriate: 6; Classification: A
+(2)  Category: Figure;  Serial Number: 0693095326;  Name: Napoleon;  Brand: Gamescape;  Price: 14.16;  Available-count: 10;  Age-appropriate: 3; Classification: H
+(3)  Category: Figure;  Serial Number: 0113513686;  Name: Toy soldier;  Brand: Gamen;  Price: 14.06;  Available-count: 2;  Age-appropriate: 5; Classification: A
+(4)  Category: Figure;  Serial Number: 1167480102;  Name: Transformers;  Brand: Game Zombie;  Price: 9.41;  Available-count: 10;  Age-appropriate: 9; Classification: H
+(5)  Category: Figure;  Serial Number: 1989637627;  Name: Abraham Lincoln;  Brand: Game Throne;  Price: 60.10;  Available-count: 5;  Age-appropriate: 7; Classification: H
+(6)  Category: Figure;  Serial Number: 1731377211;  Name: Groovy Girls;  Brand: Game Loop;  Price: 80.66;  Available-count: 3;  Age-appropriate: 5; Classification: H
+(7)  Category: Figure;  Serial Number: 1772751359;  Name: Teddy bear;  Brand: Game Reboot;  Price: 221.46;  Available-count: 8;  Age-appropriate: 3; Classification: H
+(8)  Category: Figure;  Serial Number: 1963069543;  Name: Chatty Cathy;  Brand: Game Survival;  Price: 120.37;  Available-count: 5;  Age-appropriate: 8; Classification: A
+(9)  Category: Figure;  Serial Number: 1829395687;  Name: Albert Einstein;  Brand: Game Pixel;  Price: 22.47;  Available-count: 7;  Age-appropriate: 3; Classification: H
+(10)  Category: Figure;  Serial Number: 0554378222;  Name: Elizabeth I;  Brand: Game Mafia;  Price: 40.34;  Available-count: 12;  Age-appropriate: 3; Classification: H
+(11)  Category: Figure;  Serial Number: 0219383891;  Name: Leonardo da Vinci;  Brand: Game Zombie;  Price: 48.44;  Available-count: 14;  Age-appropriate: 6; Classification: H
+(12)  Category: Figure;  Serial Number: 1918096709;  Name: Karl Marx;  Brand: Gameara;  Price: 76.30;  Available-count: 10;  Age-appropriate: 6; Classification: A
+(13)  Category: Figure;  Serial Number: 0970660308;  Name: Baby Alive;  Brand: Game Assassin;  Price: 214.41;  Available-count: 14;  Age-appropriate: 6; Classification: D
+(14)  Category: Figure;  Serial Number: 0346965428;  Name: Army men;  Brand: Gamezoid;  Price: 238.78;  Available-count: 8;  Age-appropriate: 4; Classification: D
+(15)  Category: Figure;  Serial Number: 0845728850;  Name: Barbie;  Brand: Game Buff;  Price: 60.10;  Available-count: 13;  Age-appropriate: 8; Classification: D
+(16)  Category: Figure;  Serial Number: 1579214984;  Name: Beethoven;  Brand: Game Loop;  Price: 15.36;  Available-count: 12;  Age-appropriate: 6; Classification: A
+(17)  Category: Figure;  Serial Number: 1200457201;  Name: Isaac Newton;  Brand: Gamen;  Price: 0.33;  Available-count: 11;  Age-appropriate: 3; Classification: H
+(18)  Category: Figure;  Serial Number: 0298753495;  Name: Parian doll;  Brand: Game Buff;  Price: 206.13;  Available-count: 1;  Age-appropriate: 9; Classification: A
+(19)  Category: Figure;  Serial Number: 1128983567;  Name: American Girl;  Brand: Game Shadow;  Price: 14.22;  Available-count: 5;  Age-appropriate: 8; Classification: A
+(20)  Category: Figure;  Serial Number: 0131612280;  Name: Peg wooden doll;  Brand: Game Loop;  Price: 66.06;  Available-count: 4;  Age-appropriate: 3; Classification: H
+(21)  Category: Figure;  Serial Number: 0496522522;  Name: Anatomically correct doll;  Brand: Game Rush;  Price: 171.46;  Available-count: 13;  Age-appropriate: 8; Classification: H
+(22)  Category: Figure;  Serial Number: 1333295538;  Name: Ball-jointed doll;  Brand: Gameara;  Price: 14.49;  Available-count: 10;  Age-appropriate: 3; Classification: A
+(23)  Category: Figure;  Serial Number: 1411602724;  Name: Frozen Charlotte;  Brand: Game Sky;  Price: 32.99;  Available-count: 6;  Age-appropriate: 8; Classification: A
+(24)  Category: Figure;  Serial Number: 0766777773;  Name: Fashion doll;  Brand: Game Sky;  Price: 42.18;  Available-count: 12;  Age-appropriate: 3; Classification: D
+(25)  Category: Figure;  Serial Number: 1091374555;  Name: William Shakespeare;  Brand: Game Sky;  Price: 70.86;  Available-count: 14;  Age-appropriate: 2; Classification: H
+(26)  Category: Figure;  Serial Number: 0412938521;  Name: Troll doll;  Brand: Game Sky;  Price: 90.67;  Available-count: 3;  Age-appropriate: 3; Classification: D
+(27)  Category: Figure;  Serial Number: 0902986179;  Name: Celebrity doll;  Brand: Game Orc;  Price: 28.06;  Available-count: 2;  Age-appropriate: 10; Classification: H
+(28)  Category: Figure;  Serial Number: 1361154872;  Name: Topsy-Turvy doll;  Brand: Game Survival;  Price: 287.91;  Available-count: 8;  Age-appropriate: 3; Classification: H
+(29)  Category: Figure;  Serial Number: 0642429383;  Name: Julius Caesar;  Brand: Game Demon;  Price: 110.79;  Available-count: 5;  Age-appropriate: 4; Classification: D
+(30)  Category: Figure;  Serial Number: 0069265270;  Name: Amish doll;  Brand: Game Mafia;  Price: 25.59;  Available-count: 2;  Age-appropriate: 6; Classification: H
+(31)  Category: Figure;  Serial Number: 1559749393;  Name: Star Wars;  Brand: Game Demon;  Price: 97.22;  Available-count: 3;  Age-appropriate: 8; Classification: H
+(32)  Category: Figure;  Serial Number: 1698543210;  Name: Cabbage Patch Kids;  Brand: Game Loop;  Price: 148.55;  Available-count: 6;  Age-appropriate: 10; Classification: D
+(33)  Category: Figure;  Serial Number: 1661435290;  Name: Voodoo doll;  Brand: Game Loop;  Price: 198.63;  Available-count: 3;  Age-appropriate: 4; Classification: A
+(34)  Category: Figure;  Serial Number: 1024162826;  Name: Japanese traditional dolls;  Brand: Game Demon;  Price: 139.99;  Available-count: 12;  Age-appropriate: 7; Classification: H
+(35)  Category: Figure;  Serial Number: 1295451746;  Name: Christopher Columbus;  Brand: Gamearo;  Price: 227.67;  Available-count: 9;  Age-appropriate: 4; Classification: H
+(36)  Category: Figure;  Serial Number: 1672553954;  Name: Queen Victoria;  Brand: Game Mafia;  Price: 18.29;  Available-count: 2;  Age-appropriate: 6; Classification: A
+(37)  Category: Figure;  Serial Number: 1396272830;  Name: Power Rangers;  Brand: Game Mach;  Price: 277.40;  Available-count: 12;  Age-appropriate: 5; Classification: A
+(38)  Category: Figure;  Serial Number: 1778180329;  Name: George Washington;  Brand: Gamegenix;  Price: 192.31;  Available-count: 12;  Age-appropriate: 8; Classification: H
+(39)  Category: Figure;  Serial Number: 1147205649;  Name: Ninja Turtles;  Brand: Gamezoid;  Price: 46.15;  Available-count: 10;  Age-appropriate: 6; Classification: A
+(40)  Category: Figure;  Serial Number: 0693095326;  Name: Napoleon;  Brand: Gamescape;  Price: 14.16;  Available-count: 10;  Age-appropriate: 3; Classification: H
+(41)  Category: Figure;  Serial Number: 0113513686;  Name: Toy soldier;  Brand: Gamen;  Price: 14.06;  Available-count: 2;  Age-appropriate: 5; Classification: A
+(42)  Category: Figure;  Serial Number: 1167480102;  Name: Transformers;  Brand: Game Zombie;  Price: 9.41;  Available-count: 10;  Age-appropriate: 9; Classification: H
+(43)  Category: Figure;  Serial Number: 1989637627;  Name: Abraham Lincoln;  Brand: Game Throne;  Price: 60.10;  Available-count: 5;  Age-appropriate: 7; Classification: H
+(44)  Category: Figure;  Serial Number: 1731377211;  Name: Groovy Girls;  Brand: Game Loop;  Price: 80.66;  Available-count: 3;  Age-appropriate: 5; Classification: H
+(45)  Category: Figure;  Serial Number: 1772751359;  Name: Teddy bear;  Brand: Game Reboot;  Price: 221.46;  Available-count: 8;  Age-appropriate: 3; Classification: H
+(46)  Category: Figure;  Serial Number: 1963069543;  Name: Chatty Cathy;  Brand: Game Survival;  Price: 120.37;  Available-count: 5;  Age-appropriate: 8; Classification: A
+(47)  Category: Figure;  Serial Number: 1829395687;  Name: Albert Einstein;  Brand: Game Pixel;  Price: 22.47;  Available-count: 7;  Age-appropriate: 3; Classification: H
+(48)  Category: Figure;  Serial Number: 0554378222;  Name: Elizabeth I;  Brand: Game Mafia;  Price: 40.34;  Available-count: 12;  Age-appropriate: 3; Classification: H
+(49)  Category: Figure;  Serial Number: 0219383891;  Name: Leonardo da Vinci;  Brand: Game Zombie;  Price: 48.44;  Available-count: 14;  Age-appropriate: 6; Classification: H
+(50)  Category: Figure;  Serial Number: 1918096709;  Name: Karl Marx;  Brand: Gameara;  Price: 76.30;  Available-count: 10;  Age-appropriate: 6; Classification: A
+(51)  Category: Figure;  Serial Number: 0970660308;  Name: Baby Alive;  Brand: Game Assassin;  Price: 214.41;  Available-count: 14;  Age-appropriate: 6; Classification: D
+(52)  Category: Figure;  Serial Number: 0346965428;  Name: Army men;  Brand: Gamezoid;  Price: 238.78;  Available-count: 8;  Age-appropriate: 4; Classification: D
+(53)  Category: Figure;  Serial Number: 0845728850;  Name: Barbie;  Brand: Game Buff;  Price: 60.10;  Available-count: 13;  Age-appropriate: 8; Classification: D
+(54)  Category: Figure;  Serial Number: 1579214984;  Name: Beethoven;  Brand: Game Loop;  Price: 15.36;  Available-count: 12;  Age-appropriate: 6; Classification: A
+(55)  Category: Figure;  Serial Number: 1200457201;  Name: Isaac Newton;  Brand: Gamen;  Price: 0.33;  Available-count: 11;  Age-appropriate: 3; Classification: H
+(56)  Category: Figure;  Serial Number: 0298753495;  Name: Parian doll;  Brand: Game Buff;  Price: 206.13;  Available-count: 1;  Age-appropriate: 9; Classification: A
+(57)  Category: Figure;  Serial Number: 1128983567;  Name: American Girl;  Brand: Game Shadow;  Price: 14.22;  Available-count: 5;  Age-appropriate: 8; Classification: A
+(58)  Category: Figure;  Serial Number: 0131612280;  Name: Peg wooden doll;  Brand: Game Loop;  Price: 66.06;  Available-count: 4;  Age-appropriate: 3; Classification: H
+(59)  Category: Figure;  Serial Number: 0496522522;  Name: Anatomically correct doll;  Brand: Game Rush;  Price: 171.46;  Available-count: 13;  Age-appropriate: 8; Classification: H
+(60)  Category: Figure;  Serial Number: 1333295538;  Name: Ball-jointed doll;  Brand: Gameara;  Price: 14.49;  Available-count: 10;  Age-appropriate: 3; Classification: A
+(61)  Category: Figure;  Serial Number: 1411602724;  Name: Frozen Charlotte;  Brand: Game Sky;  Price: 32.99;  Available-count: 6;  Age-appropriate: 8; Classification: A
+(62)  Category: Figure;  Serial Number: 0766777773;  Name: Fashion doll;  Brand: Game Sky;  Price: 42.18;  Available-count: 12;  Age-appropriate: 3; Classification: D
+(63)  Category: Figure;  Serial Number: 1091374555;  Name: William Shakespeare;  Brand: Game Sky;  Price: 70.86;  Available-count: 14;  Age-appropriate: 2; Classification: H
+(64)  Category: Figure;  Serial Number: 0412938521;  Name: Troll doll;  Brand: Game Sky;  Price: 90.67;  Available-count: 3;  Age-appropriate: 3; Classification: D
+(65)  Category: Figure;  Serial Number: 0902986179;  Name: Celebrity doll;  Brand: Game Orc;  Price: 28.06;  Available-count: 2;  Age-appropriate: 10; Classification: H
+(66)  Category: Figure;  Serial Number: 1361154872;  Name: Topsy-Turvy doll;  Brand: Game Survival;  Price: 287.91;  Available-count: 8;  Age-appropriate: 3; Classification: H
+(67)  Category: Figure;  Serial Number: 0642429383;  Name: Julius Caesar;  Brand: Game Demon;  Price: 110.79;  Available-count: 5;  Age-appropriate: 4; Classification: D
+(68)  Category: Figure;  Serial Number: 0069265270;  Name: Amish doll;  Brand: Game Mafia;  Price: 25.59;  Available-count: 2;  Age-appropriate: 6; Classification: H
+(69)  Category: Figure;  Serial Number: 1559749393;  Name: Star Wars;  Brand: Game Demon;  Price: 97.22;  Available-count: 3;  Age-appropriate: 8; Classification: H
+(70)  Category: Figure;  Serial Number: 1698543210;  Name: Cabbage Patch Kids;  Brand: Game Loop;  Price: 148.55;  Available-count: 6;  Age-appropriate: 10; Classification: D
+(71)  Category: Figure;  Serial Number: 1661435290;  Name: Voodoo doll;  Brand: Game Loop;  Price: 198.63;  Available-count: 3;  Age-appropriate: 4; Classification: A
+(72)  Category: Figure;  Serial Number: 1024162826;  Name: Japanese traditional dolls;  Brand: Game Demon;  Price: 139.99;  Available-count: 12;  Age-appropriate: 7; Classification: H
+(73)  Category: Figure;  Serial Number: 1295451746;  Name: Christopher Columbus;  Brand: Gamearo;  Price: 227.67;  Available-count: 9;  Age-appropriate: 4; Classification: H
+(74)  Category: Figure;  Serial Number: 1672553954;  Name: Queen Victoria;  Brand: Game Mafia;  Price: 18.29;  Available-count: 2;  Age-appropriate: 6; Classification: A
+(75)  Category: Figure;  Serial Number: 1396272830;  Name: Power Rangers;  Brand: Game Mach;  Price: 277.40;  Available-count: 12;  Age-appropriate: 5; Classification: A
+(76)  Category: Figure;  Serial Number: 1778180329;  Name: George Washington;  Brand: Gamegenix;  Price: 192.31;  Available-count: 12;  Age-appropriate: 8; Classification: H
+(77)  Category: Puzzles;  Serial Number: 5726898779;  Name: Pocket Cube;  Brand: Game Orc;  Price: 42.83;  Available-count: 1;  Age-appropriate: 4; Puzzle-type: M
+(78)  Category: Puzzles;  Serial Number: 4863437054;  Name: Logic puzzle;  Brand: Game Shadow;  Price: 265.62;  Available-count: 11;  Age-appropriate: 4; Puzzle-type: T
+(79)  Category: Puzzles;  Serial Number: 6114587612;  Name: Morpion solitaire;  Brand: Game Rush;  Price: 47.89;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: L
+(80)  Category: Puzzles;  Serial Number: 4774316121;  Name: Snake cube;  Brand: Game Sensor;  Price: 184.21;  Available-count: 9;  Age-appropriate: 3; Puzzle-type: C
+(81)  Category: Puzzles;  Serial Number: 4084960372;  Name: Sudoku;  Brand: Game Shadow;  Price: 264.27;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: L
+(82)  Category: Puzzles;  Serial Number: 6602785768;  Name: Chess puzzle;  Brand: Gameara;  Price: 19.44;  Available-count: 13;  Age-appropriate: 5; Puzzle-type: M
+(83)  Category: Puzzles;  Serial Number: 6019930308;  Name: Tsumeshogi;  Brand: Game Rush;  Price: 250.13;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: M
+(84)  Category: Puzzles;  Serial Number: 4079383569;  Name: Daughter in the box;  Brand: Game Pixel;  Price: 90.01;  Available-count: 13;  Age-appropriate: 10; Puzzle-type: M
+(85)  Category: Puzzles;  Serial Number: 4731499724;  Name: Problem solving;  Brand: Game Sensor;  Price: 93.08;  Available-count: 11;  Age-appropriate: 7; Puzzle-type: C
+(86)  Category: Puzzles;  Serial Number: 4353818087;  Name: Eight queens puzzle;  Brand: Gamescape;  Price: 15.69;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: C
+(87)  Category: Puzzles;  Serial Number: 6045331143;  Name: Computer puzzle game;  Brand: Game Survival;  Price: 98.77;  Available-count: 13;  Age-appropriate: 4; Puzzle-type: T
+(88)  Category: Puzzles;  Serial Number: 5645765685;  Name: Ball-in-a-maze puzzle;  Brand: Game Zombie;  Price: 206.65;  Available-count: 9;  Age-appropriate: 2; Puzzle-type: C
+(89)  Category: Puzzles;  Serial Number: 5239019250;  Name: Nob Yoshigahara Puzzle Design Competition;  Brand: Game Zombie;  Price: 67.20;  Available-count: 5;  Age-appropriate: 3; Puzzle-type: M
+(90)  Category: Puzzles;  Serial Number: 6001104201;  Name: Tour puzzle;  Brand: Gamefluent;  Price: 114.71;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(91)  Category: Puzzles;  Serial Number: 5446463966;  Name: Rubik's Magic;  Brand: Game Sensor;  Price: 15.71;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: C
+(92)  Category: Puzzles;  Serial Number: 5972333473;  Name: Knights and knaves;  Brand: Game Buff;  Price: 106.99;  Available-count: 2;  Age-appropriate: 7; Puzzle-type: M
+(93)  Category: Puzzles;  Serial Number: 5030016202;  Name: Gry;  Brand: Gamearo;  Price: 89.11;  Available-count: 12;  Age-appropriate: 7; Puzzle-type: C
+(94)  Category: Puzzles;  Serial Number: 6596226544;  Name: Rattle puzzle;  Brand: Gameara;  Price: 43.21;  Available-count: 5;  Age-appropriate: 8; Puzzle-type: T
+(95)  Category: Puzzles;  Serial Number: 4831187177;  Name: Tiling puzzle;  Brand: Game Rush;  Price: 85.60;  Available-count: 1;  Age-appropriate: 6; Puzzle-type: L
+(96)  Category: Puzzles;  Serial Number: 5411798199;  Name: Logo extraction puzzle;  Brand: Game Rush;  Price: 201.47;  Available-count: 8;  Age-appropriate: 6; Puzzle-type: C
+(97)  Category: Puzzles;  Serial Number: 4661866503;  Name: Maze;  Brand: Gamearo;  Price: 46.84;  Available-count: 4;  Age-appropriate: 2; Puzzle-type: L
+(98)  Category: Puzzles;  Serial Number: 6375942616;  Name: Graeco-Latin square;  Brand: Game Rush;  Price: 74.07;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: M
+(99)  Category: Puzzles;  Serial Number: 5880146101;  Name: Wire puzzle;  Brand: Gamearo;  Price: 128.90;  Available-count: 10;  Age-appropriate: 9; Puzzle-type: M
+(100)  Category: Puzzles;  Serial Number: 6583467137;  Name: Paint by numbers;  Brand: Game Loop;  Price: 287.38;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: T
+(101)  Category: Puzzles;  Serial Number: 5242279001;  Name: Induction puzzles;  Brand: Game Zombie;  Price: 31.47;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: T
+(102)  Category: Puzzles;  Serial Number: 5442572423;  Name: Mathematical puzzle;  Brand: Game Buff;  Price: 237.77;  Available-count: 13;  Age-appropriate: 5; Puzzle-type: L
+(103)  Category: Puzzles;  Serial Number: 6018470981;  Name: Fox, goose and bag of beans puzzle;  Brand: Gamearo;  Price: 21.69;  Available-count: 7;  Age-appropriate: 5; Puzzle-type: L
+(104)  Category: Puzzles;  Serial Number: 5307695541;  Name: Brain teaser;  Brand: Game Zombie;  Price: 4.74;  Available-count: 11;  Age-appropriate: 2; Puzzle-type: L
+(105)  Category: Puzzles;  Serial Number: 4639887432;  Name: Speedcubing;  Brand: Game Assassin;  Price: 62.35;  Available-count: 14;  Age-appropriate: 2; Puzzle-type: T
+(106)  Category: Puzzles;  Serial Number: 4627106401;  Name: Lateral thinking;  Brand: Game Survival;  Price: 21.19;  Available-count: 7;  Age-appropriate: 4; Puzzle-type: C
+(107)  Category: Puzzles;  Serial Number: 4935699431;  Name: Tangram;  Brand: Gamen;  Price: 291.57;  Available-count: 12;  Age-appropriate: 10; Puzzle-type: C
+(108)  Category: Puzzles;  Serial Number: 5958291403;  Name: Cryptogram;  Brand: Game Survival;  Price: 128.95;  Available-count: 2;  Age-appropriate: 7; Puzzle-type: C
+(109)  Category: Puzzles;  Serial Number: 6445676597;  Name: Sliding puzzle;  Brand: Game Buff;  Price: 42.05;  Available-count: 4;  Age-appropriate: 4; Puzzle-type: L
+(110)  Category: Puzzles;  Serial Number: 6886557808;  Name: Nikoli;  Brand: Gamen;  Price: 66.10;  Available-count: 8;  Age-appropriate: 4; Puzzle-type: M
+(111)  Category: Puzzles;  Serial Number: 5494530303;  Name: Plate-and-ring puzzle;  Brand: Gamearo;  Price: 12.51;  Available-count: 3;  Age-appropriate: 4; Puzzle-type: M
+(112)  Category: Puzzles;  Serial Number: 5220088189;  Name: Mahjong solitaire;  Brand: Gameado;  Price: 176.03;  Available-count: 1;  Age-appropriate: 10; Puzzle-type: T
+(113)  Category: Puzzles;  Serial Number: 5114057845;  Name: Insight;  Brand: Game Throne;  Price: 100.14;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: M
+(114)  Category: Puzzles;  Serial Number: 4463241698;  Name: KenKen;  Brand: Game Assassin;  Price: 93.29;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: T
+(115)  Category: Puzzles;  Serial Number: 5882978986;  Name: Latin square;  Brand: Game Rush;  Price: 130.74;  Available-count: 3;  Age-appropriate: 2; Puzzle-type: L
+(116)  Category: Puzzles;  Serial Number: 5970554935;  Name: Letter bank;  Brand: Gamezoid;  Price: 107.75;  Available-count: 11;  Age-appropriate: 2; Puzzle-type: M
+(117)  Category: Puzzles;  Serial Number: 6388328760;  Name: Sokoban;  Brand: Gamefluent;  Price: 64.51;  Available-count: 2;  Age-appropriate: 3; Puzzle-type: T
+(118)  Category: Puzzles;  Serial Number: 6333851004;  Name: Egg of Columbus;  Brand: Gameado;  Price: 0.33;  Available-count: 10;  Age-appropriate: 4; Puzzle-type: C
+(119)  Category: Puzzles;  Serial Number: 5012387837;  Name: Cryptic crossword;  Brand: Game Pixel;  Price: 12.14;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: C
+(120)  Category: Puzzles;  Serial Number: 5240256540;  Name: Prisoners and hats puzzle;  Brand: Game Survival;  Price: 28.02;  Available-count: 6;  Age-appropriate: 4; Puzzle-type: T
+(121)  Category: Puzzles;  Serial Number: 6401250594;  Name: Disentanglement puzzle;  Brand: Game Throne;  Price: 213.09;  Available-count: 1;  Age-appropriate: 3; Puzzle-type: C
+(122)  Category: Puzzles;  Serial Number: 4205059343;  Name: Jigsaw puzzle;  Brand: Gamegenix;  Price: 67.37;  Available-count: 8;  Age-appropriate: 8; Puzzle-type: T
+(123)  Category: Puzzles;  Serial Number: 4599428616;  Name: Back from the klondike;  Brand: Gamearo;  Price: 29.29;  Available-count: 7;  Age-appropriate: 3; Puzzle-type: M
+(124)  Category: Puzzles;  Serial Number: 5466369452;  Name: Minus Cube;  Brand: Game Sensor;  Price: 98.61;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(125)  Category: Puzzles;  Serial Number: 6507258098;  Name: Anagram;  Brand: Gamefluent;  Price: 77.30;  Available-count: 3;  Age-appropriate: 2; Puzzle-type: L
+(126)  Category: Puzzles;  Serial Number: 5708657865;  Name: Three cups problem;  Brand: Game Buff;  Price: 6.05;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: L
+(127)  Category: Puzzles;  Serial Number: 5009922251;  Name: Magic square;  Brand: Game Sensor;  Price: 43.81;  Available-count: 12;  Age-appropriate: 2; Puzzle-type: C
+(128)  Category: Puzzles;  Serial Number: 6929408397;  Name: Chess problem;  Brand: Game Survival;  Price: 10.62;  Available-count: 14;  Age-appropriate: 4; Puzzle-type: T
+(129)  Category: Puzzles;  Serial Number: 5102451719;  Name: Three-cottage problem;  Brand: Game Shadow;  Price: 33.79;  Available-count: 7;  Age-appropriate: 10; Puzzle-type: C
+(130)  Category: Puzzles;  Serial Number: 6736127390;  Name: Globe puzzle;  Brand: Gamescape;  Price: 82.67;  Available-count: 12;  Age-appropriate: 6; Puzzle-type: M
+(131)  Category: Puzzles;  Serial Number: 4355449938;  Name: Situation puzzle;  Brand: Game Demon;  Price: 224.72;  Available-count: 12;  Age-appropriate: 9; Puzzle-type: M
+(132)  Category: Puzzles;  Serial Number: 4150799965;  Name: Packing problem;  Brand: Game Rush;  Price: 21.59;  Available-count: 13;  Age-appropriate: 4; Puzzle-type: M
+(133)  Category: Puzzles;  Serial Number: 4459648851;  Name: Crossword puzzle;  Brand: Game Rush;  Price: 278.72;  Available-count: 8;  Age-appropriate: 5; Puzzle-type: C
+(134)  Category: Puzzles;  Serial Number: 6147356663;  Name: Edge-matching puzzle;  Brand: Gamescape;  Price: 6.28;  Available-count: 12;  Age-appropriate: 10; Puzzle-type: M
+(135)  Category: Puzzles;  Serial Number: 6678014194;  Name: Stick puzzle;  Brand: Game Assassin;  Price: 295.52;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: C
+(136)  Category: Puzzles;  Serial Number: 5637161167;  Name: Kakuro;  Brand: Gamearo;  Price: 0.33;  Available-count: 14;  Age-appropriate: 5; Puzzle-type: M
+(137)  Category: Puzzles;  Serial Number: 6957748827;  Name: Rubik's Revenge;  Brand: Game Loop;  Price: 73.88;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: C
+(138)  Category: Puzzles;  Serial Number: 4401933289;  Name: Tower of Hanoi;  Brand: Gameara;  Price: 78.96;  Available-count: 5;  Age-appropriate: 3; Puzzle-type: C
+(139)  Category: Puzzles;  Serial Number: 5140173358;  Name: Wire-and-string puzzle;  Brand: Game Survival;  Price: 260.31;  Available-count: 13;  Age-appropriate: 3; Puzzle-type: T
+(140)  Category: Puzzles;  Serial Number: 5059382936;  Name: Mechanical puzzle;  Brand: Game Buff;  Price: 240.06;  Available-count: 3;  Age-appropriate: 6; Puzzle-type: T
+(141)  Category: Puzzles;  Serial Number: 6717226220;  Name: Riddles;  Brand: Game Buff;  Price: 98.84;  Available-count: 10;  Age-appropriate: 8; Puzzle-type: L
+(142)  Category: Puzzles;  Serial Number: 5419349327;  Name: Burr puzzle;  Brand: Game Reboot;  Price: 227.21;  Available-count: 11;  Age-appropriate: 4; Puzzle-type: L
+(143)  Category: Puzzles;  Serial Number: 4772797789;  Name: Merkle's Puzzles;  Brand: Game Sensor;  Price: 69.99;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: T
+(144)  Category: Puzzles;  Serial Number: 6270173616;  Name: Knight's Tour;  Brand: Gamescape;  Price: 27.44;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: C
+(145)  Category: Puzzles;  Serial Number: 5380257078;  Name: Geomagic square;  Brand: Game Zombie;  Price: 110.07;  Available-count: 1;  Age-appropriate: 3; Puzzle-type: M
+(146)  Category: Puzzles;  Serial Number: 5236873244;  Name: T puzzle;  Brand: Game Loop;  Price: 222.76;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: L
+(147)  Category: Puzzles;  Serial Number: 4319739200;  Name: Peg solitaire;  Brand: Gamearo;  Price: 53.23;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: M
+(148)  Category: Puzzles;  Serial Number: 4796227955;  Name: Matchstick puzzle;  Brand: Game Survival;  Price: 126.86;  Available-count: 9;  Age-appropriate: 5; Puzzle-type: M
+(149)  Category: Puzzles;  Serial Number: 5964401598;  Name: N-puzzle;  Brand: Gamen;  Price: 0.65;  Available-count: 10;  Age-appropriate: 4; Puzzle-type: M
+(150)  Category: Puzzles;  Serial Number: 5334485537;  Name: Thinking outside the box;  Brand: Game Shadow;  Price: 96.33;  Available-count: 1;  Age-appropriate: 8; Puzzle-type: T
+(151)  Category: Puzzles;  Serial Number: 6245496583;  Name: Bull's Eye[disambiguation needed];  Brand: Game Pixel;  Price: 134.02;  Available-count: 6;  Age-appropriate: 5; Puzzle-type: T
+(152)  Category: Puzzles;  Serial Number: 4771103439;  Name: Rebus;  Brand: Gamegenix;  Price: 64.81;  Available-count: 9;  Age-appropriate: 5; Puzzle-type: M
+(153)  Category: Puzzles;  Serial Number: 6853280706;  Name: Happy Cube;  Brand: Gamegenix;  Price: 77.68;  Available-count: 7;  Age-appropriate: 4; Puzzle-type: M
+(154)  Category: Puzzles;  Serial Number: 4464788387;  Name: Soma cube;  Brand: Gamefluent;  Price: 68.23;  Available-count: 12;  Age-appropriate: 8; Puzzle-type: L
+(155)  Category: Puzzles;  Serial Number: 4844180696;  Name: Cross Sums;  Brand: Game Mach;  Price: 73.86;  Available-count: 4;  Age-appropriate: 4; Puzzle-type: L
+(156)  Category: Puzzles;  Serial Number: 5905553294;  Name: Alpha Triangle;  Brand: Game Mafia;  Price: 17.55;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(157)  Category: Puzzles;  Serial Number: 6855604945;  Name: Fifteen puzzle;  Brand: Gameado;  Price: 98.72;  Available-count: 10;  Age-appropriate: 9; Puzzle-type: M
+(158)  Category: Puzzles;  Serial Number: 5978960341;  Name: Pirate loot problem;  Brand: Game Assassin;  Price: 15.30;  Available-count: 7;  Age-appropriate: 3; Puzzle-type: T
+(159)  Category: Puzzles;  Serial Number: 6487767393;  Name: Nurikabe;  Brand: Game Loop;  Price: 67.28;  Available-count: 5;  Age-appropriate: 2; Puzzle-type: C
+(160)  Category: Puzzles;  Serial Number: 4058104820;  Name: Rubik's Cube;  Brand: Game Throne;  Price: 48.09;  Available-count: 8;  Age-appropriate: 8; Puzzle-type: C
+(161)  Category: Puzzles;  Serial Number: 4576216782;  Name: Eternity puzzle;  Brand: Game Throne;  Price: 61.67;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: T
+(162)  Category: Puzzles;  Serial Number: 5248837254;  Name: Lock puzzle;  Brand: Game Sky;  Price: 32.29;  Available-count: 5;  Age-appropriate: 2; Puzzle-type: M
+(163)  Category: Puzzles;  Serial Number: 5247156109;  Name: Verbal arithmetic;  Brand: Gameado;  Price: 8.29;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: M
+(164)  Category: Puzzles;  Serial Number: 4585852723;  Name: Tsumego;  Brand: Game Sky;  Price: 292.41;  Available-count: 7;  Age-appropriate: 8; Puzzle-type: M
+(165)  Category: Puzzles;  Serial Number: 5279323659;  Name: Einstein's Puzzle;  Brand: Game Demon;  Price: 182.61;  Available-count: 3;  Age-appropriate: 6; Puzzle-type: T
+(166)  Category: Puzzles;  Serial Number: 4134304987;  Name: Pentomino;  Brand: Game Reboot;  Price: 59.30;  Available-count: 9;  Age-appropriate: 8; Puzzle-type: L
+(167)  Category: Puzzles;  Serial Number: 4662861666;  Name: Acrostic;  Brand: Game Pixel;  Price: 70.84;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: T
+(168)  Category: Puzzles;  Serial Number: 5726898779;  Name: Pocket Cube;  Brand: Game Orc;  Price: 42.83;  Available-count: 1;  Age-appropriate: 4; Puzzle-type: M
+(169)  Category: Puzzles;  Serial Number: 4863437054;  Name: Logic puzzle;  Brand: Game Shadow;  Price: 265.62;  Available-count: 11;  Age-appropriate: 4; Puzzle-type: T
+(170)  Category: Puzzles;  Serial Number: 6114587612;  Name: Morpion solitaire;  Brand: Game Rush;  Price: 47.89;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: L
+(171)  Category: Puzzles;  Serial Number: 4774316121;  Name: Snake cube;  Brand: Game Sensor;  Price: 184.21;  Available-count: 9;  Age-appropriate: 3; Puzzle-type: C
+(172)  Category: Puzzles;  Serial Number: 4084960372;  Name: Sudoku;  Brand: Game Shadow;  Price: 264.27;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: L
+(173)  Category: Puzzles;  Serial Number: 6602785768;  Name: Chess puzzle;  Brand: Gameara;  Price: 19.44;  Available-count: 13;  Age-appropriate: 5; Puzzle-type: M
+(174)  Category: Puzzles;  Serial Number: 6019930308;  Name: Tsumeshogi;  Brand: Game Rush;  Price: 250.13;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: M
+(175)  Category: Puzzles;  Serial Number: 4079383569;  Name: Daughter in the box;  Brand: Game Pixel;  Price: 90.01;  Available-count: 13;  Age-appropriate: 10; Puzzle-type: M
+(176)  Category: Puzzles;  Serial Number: 4731499724;  Name: Problem solving;  Brand: Game Sensor;  Price: 93.08;  Available-count: 11;  Age-appropriate: 7; Puzzle-type: C
+(177)  Category: Puzzles;  Serial Number: 4353818087;  Name: Eight queens puzzle;  Brand: Gamescape;  Price: 15.69;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: C
+(178)  Category: Puzzles;  Serial Number: 6045331143;  Name: Computer puzzle game;  Brand: Game Survival;  Price: 98.77;  Available-count: 13;  Age-appropriate: 4; Puzzle-type: T
+(179)  Category: Puzzles;  Serial Number: 5645765685;  Name: Ball-in-a-maze puzzle;  Brand: Game Zombie;  Price: 206.65;  Available-count: 9;  Age-appropriate: 2; Puzzle-type: C
+(180)  Category: Puzzles;  Serial Number: 5239019250;  Name: Nob Yoshigahara Puzzle Design Competition;  Brand: Game Zombie;  Price: 67.20;  Available-count: 5;  Age-appropriate: 3; Puzzle-type: M
+(181)  Category: Puzzles;  Serial Number: 6001104201;  Name: Tour puzzle;  Brand: Gamefluent;  Price: 114.71;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(182)  Category: Puzzles;  Serial Number: 5446463966;  Name: Rubik's Magic;  Brand: Game Sensor;  Price: 15.71;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: C
+(183)  Category: Puzzles;  Serial Number: 5972333473;  Name: Knights and knaves;  Brand: Game Buff;  Price: 106.99;  Available-count: 2;  Age-appropriate: 7; Puzzle-type: M
+(184)  Category: Puzzles;  Serial Number: 5030016202;  Name: Gry;  Brand: Gamearo;  Price: 89.11;  Available-count: 12;  Age-appropriate: 7; Puzzle-type: C
+(185)  Category: Puzzles;  Serial Number: 6596226544;  Name: Rattle puzzle;  Brand: Gameara;  Price: 43.21;  Available-count: 5;  Age-appropriate: 8; Puzzle-type: T
+(186)  Category: Puzzles;  Serial Number: 4831187177;  Name: Tiling puzzle;  Brand: Game Rush;  Price: 85.60;  Available-count: 1;  Age-appropriate: 6; Puzzle-type: L
+(187)  Category: Puzzles;  Serial Number: 5411798199;  Name: Logo extraction puzzle;  Brand: Game Rush;  Price: 201.47;  Available-count: 8;  Age-appropriate: 6; Puzzle-type: C
+(188)  Category: Puzzles;  Serial Number: 4661866503;  Name: Maze;  Brand: Gamearo;  Price: 46.84;  Available-count: 4;  Age-appropriate: 2; Puzzle-type: L
+(189)  Category: Puzzles;  Serial Number: 6375942616;  Name: Graeco-Latin square;  Brand: Game Rush;  Price: 74.07;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: M
+(190)  Category: Puzzles;  Serial Number: 5880146101;  Name: Wire puzzle;  Brand: Gamearo;  Price: 128.90;  Available-count: 10;  Age-appropriate: 9; Puzzle-type: M
+(191)  Category: Puzzles;  Serial Number: 6583467137;  Name: Paint by numbers;  Brand: Game Loop;  Price: 287.38;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: T
+(192)  Category: Puzzles;  Serial Number: 5242279001;  Name: Induction puzzles;  Brand: Game Zombie;  Price: 31.47;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: T
+(193)  Category: Puzzles;  Serial Number: 5442572423;  Name: Mathematical puzzle;  Brand: Game Buff;  Price: 237.77;  Available-count: 13;  Age-appropriate: 5; Puzzle-type: L
+(194)  Category: Puzzles;  Serial Number: 6018470981;  Name: Fox, goose and bag of beans puzzle;  Brand: Gamearo;  Price: 21.69;  Available-count: 7;  Age-appropriate: 5; Puzzle-type: L
+(195)  Category: Puzzles;  Serial Number: 5307695541;  Name: Brain teaser;  Brand: Game Zombie;  Price: 4.74;  Available-count: 11;  Age-appropriate: 2; Puzzle-type: L
+(196)  Category: Puzzles;  Serial Number: 4639887432;  Name: Speedcubing;  Brand: Game Assassin;  Price: 62.35;  Available-count: 14;  Age-appropriate: 2; Puzzle-type: T
+(197)  Category: Puzzles;  Serial Number: 4627106401;  Name: Lateral thinking;  Brand: Game Survival;  Price: 21.19;  Available-count: 7;  Age-appropriate: 4; Puzzle-type: C
+(198)  Category: Puzzles;  Serial Number: 4935699431;  Name: Tangram;  Brand: Gamen;  Price: 291.57;  Available-count: 12;  Age-appropriate: 10; Puzzle-type: C
+(199)  Category: Puzzles;  Serial Number: 5958291403;  Name: Cryptogram;  Brand: Game Survival;  Price: 128.95;  Available-count: 2;  Age-appropriate: 7; Puzzle-type: C
+(200)  Category: Puzzles;  Serial Number: 6445676597;  Name: Sliding puzzle;  Brand: Game Buff;  Price: 42.05;  Available-count: 4;  Age-appropriate: 4; Puzzle-type: L
+(201)  Category: Puzzles;  Serial Number: 6886557808;  Name: Nikoli;  Brand: Gamen;  Price: 66.10;  Available-count: 8;  Age-appropriate: 4; Puzzle-type: M
+(202)  Category: Puzzles;  Serial Number: 5494530303;  Name: Plate-and-ring puzzle;  Brand: Gamearo;  Price: 12.51;  Available-count: 3;  Age-appropriate: 4; Puzzle-type: M
+(203)  Category: Puzzles;  Serial Number: 5220088189;  Name: Mahjong solitaire;  Brand: Gameado;  Price: 176.03;  Available-count: 1;  Age-appropriate: 10; Puzzle-type: T
+(204)  Category: Puzzles;  Serial Number: 5114057845;  Name: Insight;  Brand: Game Throne;  Price: 100.14;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: M
+(205)  Category: Puzzles;  Serial Number: 4463241698;  Name: KenKen;  Brand: Game Assassin;  Price: 93.29;  Available-count: 5;  Age-appropriate: 6; Puzzle-type: T
+(206)  Category: Puzzles;  Serial Number: 5882978986;  Name: Latin square;  Brand: Game Rush;  Price: 130.74;  Available-count: 3;  Age-appropriate: 2; Puzzle-type: L
+(207)  Category: Puzzles;  Serial Number: 5970554935;  Name: Letter bank;  Brand: Gamezoid;  Price: 107.75;  Available-count: 11;  Age-appropriate: 2; Puzzle-type: M
+(208)  Category: Puzzles;  Serial Number: 6388328760;  Name: Sokoban;  Brand: Gamefluent;  Price: 64.51;  Available-count: 2;  Age-appropriate: 3; Puzzle-type: T
+(209)  Category: Puzzles;  Serial Number: 6333851004;  Name: Egg of Columbus;  Brand: Gameado;  Price: 0.33;  Available-count: 10;  Age-appropriate: 4; Puzzle-type: C
+(210)  Category: Puzzles;  Serial Number: 5012387837;  Name: Cryptic crossword;  Brand: Game Pixel;  Price: 12.14;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: C
+(211)  Category: Puzzles;  Serial Number: 5240256540;  Name: Prisoners and hats puzzle;  Brand: Game Survival;  Price: 28.02;  Available-count: 6;  Age-appropriate: 4; Puzzle-type: T
+(212)  Category: Puzzles;  Serial Number: 6401250594;  Name: Disentanglement puzzle;  Brand: Game Throne;  Price: 213.09;  Available-count: 1;  Age-appropriate: 3; Puzzle-type: C
+(213)  Category: Puzzles;  Serial Number: 4205059343;  Name: Jigsaw puzzle;  Brand: Gamegenix;  Price: 67.37;  Available-count: 8;  Age-appropriate: 8; Puzzle-type: T
+(214)  Category: Puzzles;  Serial Number: 4599428616;  Name: Back from the klondike;  Brand: Gamearo;  Price: 29.29;  Available-count: 7;  Age-appropriate: 3; Puzzle-type: M
+(215)  Category: Puzzles;  Serial Number: 5466369452;  Name: Minus Cube;  Brand: Game Sensor;  Price: 98.61;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(216)  Category: Puzzles;  Serial Number: 6507258098;  Name: Anagram;  Brand: Gamefluent;  Price: 77.30;  Available-count: 3;  Age-appropriate: 2; Puzzle-type: L
+(217)  Category: Puzzles;  Serial Number: 5708657865;  Name: Three cups problem;  Brand: Game Buff;  Price: 6.05;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: L
+(218)  Category: Puzzles;  Serial Number: 5009922251;  Name: Magic square;  Brand: Game Sensor;  Price: 43.81;  Available-count: 12;  Age-appropriate: 2; Puzzle-type: C
+(219)  Category: Puzzles;  Serial Number: 6929408397;  Name: Chess problem;  Brand: Game Survival;  Price: 10.62;  Available-count: 14;  Age-appropriate: 4; Puzzle-type: T
+(220)  Category: Puzzles;  Serial Number: 5102451719;  Name: Three-cottage problem;  Brand: Game Shadow;  Price: 33.79;  Available-count: 7;  Age-appropriate: 10; Puzzle-type: C
+(221)  Category: Puzzles;  Serial Number: 6736127390;  Name: Globe puzzle;  Brand: Gamescape;  Price: 82.67;  Available-count: 12;  Age-appropriate: 6; Puzzle-type: M
+(222)  Category: Puzzles;  Serial Number: 4355449938;  Name: Situation puzzle;  Brand: Game Demon;  Price: 224.72;  Available-count: 12;  Age-appropriate: 9; Puzzle-type: M
+(223)  Category: Puzzles;  Serial Number: 4150799965;  Name: Packing problem;  Brand: Game Rush;  Price: 21.59;  Available-count: 13;  Age-appropriate: 4; Puzzle-type: M
+(224)  Category: Puzzles;  Serial Number: 4459648851;  Name: Crossword puzzle;  Brand: Game Rush;  Price: 278.72;  Available-count: 8;  Age-appropriate: 5; Puzzle-type: C
+(225)  Category: Puzzles;  Serial Number: 6147356663;  Name: Edge-matching puzzle;  Brand: Gamescape;  Price: 6.28;  Available-count: 12;  Age-appropriate: 10; Puzzle-type: M
+(226)  Category: Puzzles;  Serial Number: 6678014194;  Name: Stick puzzle;  Brand: Game Assassin;  Price: 295.52;  Available-count: 11;  Age-appropriate: 6; Puzzle-type: C
+(227)  Category: Puzzles;  Serial Number: 5637161167;  Name: Kakuro;  Brand: Gamearo;  Price: 0.33;  Available-count: 14;  Age-appropriate: 5; Puzzle-type: M
+(228)  Category: Puzzles;  Serial Number: 6957748827;  Name: Rubik's Revenge;  Brand: Game Loop;  Price: 73.88;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: C
+(229)  Category: Puzzles;  Serial Number: 4401933289;  Name: Tower of Hanoi;  Brand: Gameara;  Price: 78.96;  Available-count: 5;  Age-appropriate: 3; Puzzle-type: C
+(230)  Category: Puzzles;  Serial Number: 5140173358;  Name: Wire-and-string puzzle;  Brand: Game Survival;  Price: 260.31;  Available-count: 13;  Age-appropriate: 3; Puzzle-type: T
+(231)  Category: Puzzles;  Serial Number: 5059382936;  Name: Mechanical puzzle;  Brand: Game Buff;  Price: 240.06;  Available-count: 3;  Age-appropriate: 6; Puzzle-type: T
+(232)  Category: Puzzles;  Serial Number: 6717226220;  Name: Riddles;  Brand: Game Buff;  Price: 98.84;  Available-count: 10;  Age-appropriate: 8; Puzzle-type: L
+(233)  Category: Puzzles;  Serial Number: 5419349327;  Name: Burr puzzle;  Brand: Game Reboot;  Price: 227.21;  Available-count: 11;  Age-appropriate: 4; Puzzle-type: L
+(234)  Category: Puzzles;  Serial Number: 4772797789;  Name: Merkle's Puzzles;  Brand: Game Sensor;  Price: 69.99;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: T
+(235)  Category: Puzzles;  Serial Number: 6270173616;  Name: Knight's Tour;  Brand: Gamescape;  Price: 27.44;  Available-count: 7;  Age-appropriate: 2; Puzzle-type: C
+(236)  Category: Puzzles;  Serial Number: 5380257078;  Name: Geomagic square;  Brand: Game Zombie;  Price: 110.07;  Available-count: 1;  Age-appropriate: 3; Puzzle-type: M
+(237)  Category: Puzzles;  Serial Number: 5236873244;  Name: T puzzle;  Brand: Game Loop;  Price: 222.76;  Available-count: 13;  Age-appropriate: 9; Puzzle-type: L
+(238)  Category: Puzzles;  Serial Number: 4319739200;  Name: Peg solitaire;  Brand: Gamearo;  Price: 53.23;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: M
+(239)  Category: Puzzles;  Serial Number: 4796227955;  Name: Matchstick puzzle;  Brand: Game Survival;  Price: 126.86;  Available-count: 9;  Age-appropriate: 5; Puzzle-type: M
+(240)  Category: Puzzles;  Serial Number: 5964401598;  Name: N-puzzle;  Brand: Gamen;  Price: 0.65;  Available-count: 10;  Age-appropriate: 4; Puzzle-type: M
+(241)  Category: Puzzles;  Serial Number: 5334485537;  Name: Thinking outside the box;  Brand: Game Shadow;  Price: 96.33;  Available-count: 1;  Age-appropriate: 8; Puzzle-type: T
+(242)  Category: Puzzles;  Serial Number: 6245496583;  Name: Bull's Eye[disambiguation needed];  Brand: Game Pixel;  Price: 134.02;  Available-count: 6;  Age-appropriate: 5; Puzzle-type: T
+(243)  Category: Puzzles;  Serial Number: 4771103439;  Name: Rebus;  Brand: Gamegenix;  Price: 64.81;  Available-count: 9;  Age-appropriate: 5; Puzzle-type: M
+(244)  Category: Puzzles;  Serial Number: 6853280706;  Name: Happy Cube;  Brand: Gamegenix;  Price: 77.68;  Available-count: 7;  Age-appropriate: 4; Puzzle-type: M
+(245)  Category: Puzzles;  Serial Number: 4464788387;  Name: Soma cube;  Brand: Gamefluent;  Price: 68.23;  Available-count: 12;  Age-appropriate: 8; Puzzle-type: L
+(246)  Category: Puzzles;  Serial Number: 4844180696;  Name: Cross Sums;  Brand: Game Mach;  Price: 73.86;  Available-count: 4;  Age-appropriate: 4; Puzzle-type: L
+(247)  Category: Puzzles;  Serial Number: 5905553294;  Name: Alpha Triangle;  Brand: Game Mafia;  Price: 17.55;  Available-count: 13;  Age-appropriate: 6; Puzzle-type: T
+(248)  Category: Puzzles;  Serial Number: 6855604945;  Name: Fifteen puzzle;  Brand: Gameado;  Price: 98.72;  Available-count: 10;  Age-appropriate: 9; Puzzle-type: M
+(249)  Category: Puzzles;  Serial Number: 5978960341;  Name: Pirate loot problem;  Brand: Game Assassin;  Price: 15.30;  Available-count: 7;  Age-appropriate: 3; Puzzle-type: T
+(250)  Category: Puzzles;  Serial Number: 6487767393;  Name: Nurikabe;  Brand: Game Loop;  Price: 67.28;  Available-count: 5;  Age-appropriate: 2; Puzzle-type: C
+(251)  Category: Puzzles;  Serial Number: 4058104820;  Name: Rubik's Cube;  Brand: Game Throne;  Price: 48.09;  Available-count: 8;  Age-appropriate: 8; Puzzle-type: C
+(252)  Category: Puzzles;  Serial Number: 4576216782;  Name: Eternity puzzle;  Brand: Game Throne;  Price: 61.67;  Available-count: 8;  Age-appropriate: 2; Puzzle-type: T
+(253)  Category: Puzzles;  Serial Number: 5248837254;  Name: Lock puzzle;  Brand: Game Sky;  Price: 32.29;  Available-count: 5;  Age-appropriate: 2; Puzzle-type: M
+(254)  Category: Puzzles;  Serial Number: 5247156109;  Name: Verbal arithmetic;  Brand: Gameado;  Price: 8.29;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: M
+(255)  Category: Puzzles;  Serial Number: 4585852723;  Name: Tsumego;  Brand: Game Sky;  Price: 292.41;  Available-count: 7;  Age-appropriate: 8; Puzzle-type: M
+(256)  Category: Puzzles;  Serial Number: 5279323659;  Name: Einstein's Puzzle;  Brand: Game Demon;  Price: 182.61;  Available-count: 3;  Age-appropriate: 6; Puzzle-type: T
+(257)  Category: Puzzles;  Serial Number: 4134304987;  Name: Pentomino;  Brand: Game Reboot;  Price: 59.30;  Available-count: 9;  Age-appropriate: 8; Puzzle-type: L
+(258)  Category: Puzzles;  Serial Number: 4662861666;  Name: Acrostic;  Brand: Game Pixel;  Price: 70.84;  Available-count: 11;  Age-appropriate: 9; Puzzle-type: T
+(259)  Category: Animals;  Serial Number: 2835360879;  Name: Cow;  Brand: Game Assassin;  Price: 19.52;  Available-count: 3;  Age-appropriate: 7;  Material: Plastic;  Size: M
+(260)  Category: Animals;  Serial Number: 3066990646;  Name: Horse;  Brand: Gamescape;  Price: 165.61;  Available-count: 1;  Age-appropriate: 7;  Material: Wooden;  Size: L
+(261)  Category: Animals;  Serial Number: 3015547049;  Name: Dove;  Brand: Game Zombie;  Price: 24.55;  Available-count: 2;  Age-appropriate: 9;  Material: Wooden;  Size: S
+(262)  Category: Animals;  Serial Number: 2804598463;  Name: Kangaroo;  Brand: Gamefluent;  Price: 289.37;  Available-count: 14;  Age-appropriate: 6;  Material: Wooden;  Size: S
+(263)  Category: Animals;  Serial Number: 3899783893;  Name: Turkey;  Brand: Game Buff;  Price: 11.74;  Available-count: 13;  Age-appropriate: 8;  Material: Plastic;  Size: M
+(264)  Category: Animals;  Serial Number: 2770204747;  Name: Chicken;  Brand: Gameara;  Price: 22.89;  Available-count: 4;  Age-appropriate: 9;  Material: Fabric;  Size: M
+(265)  Category: Animals;  Serial Number: 2656739862;  Name: Bee;  Brand: Gamen;  Price: 94.30;  Available-count: 9;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(266)  Category: Animals;  Serial Number: 3424511521;  Name: Otter;  Brand: Game Sky;  Price: 3.07;  Available-count: 8;  Age-appropriate: 7;  Material: Fabric;  Size: L
+(267)  Category: Animals;  Serial Number: 2399837756;  Name: Coyote;  Brand: Game Rush;  Price: 99.83;  Available-count: 2;  Age-appropriate: 5;  Material: Wooden;  Size: L
+(268)  Category: Animals;  Serial Number: 2797548530;  Name: Mouse;  Brand: Gameara;  Price: 14.53;  Available-count: 14;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(269)  Category: Animals;  Serial Number: 3690664040;  Name: Turtle;  Brand: Game Sensor;  Price: 223.01;  Available-count: 13;  Age-appropriate: 8;  Material: Fabric;  Size: M
+(270)  Category: Animals;  Serial Number: 3131436838;  Name: Giraffe;  Brand: Game Reboot;  Price: 94.57;  Available-count: 6;  Age-appropriate: 8;  Material: Wooden;  Size: L
+(271)  Category: Animals;  Serial Number: 2296386544;  Name: Chimpanzee;  Brand: Gamefluent;  Price: 12.89;  Available-count: 12;  Age-appropriate: 10;  Material: Fabric;  Size: L
+(272)  Category: Animals;  Serial Number: 2657125753;  Name: Pig;  Brand: Game Assassin;  Price: 192.93;  Available-count: 3;  Age-appropriate: 8;  Material: Wooden;  Size: M
+(273)  Category: Animals;  Serial Number: 3045978973;  Name: Goat;  Brand: Game Assassin;  Price: 225.70;  Available-count: 5;  Age-appropriate: 4;  Material: Wooden;  Size: M
+(274)  Category: Animals;  Serial Number: 2708237084;  Name: Cat;  Brand: Gamescape;  Price: 48.58;  Available-count: 9;  Age-appropriate: 2;  Material: Fabric;  Size: S
+(275)  Category: Animals;  Serial Number: 2753759364;  Name: Goldfish;  Brand: Game Reboot;  Price: 140.93;  Available-count: 13;  Age-appropriate: 9;  Material: Wooden;  Size: L
+(276)  Category: Animals;  Serial Number: 2342281667;  Name: Lion;  Brand: Game Throne;  Price: 14.07;  Available-count: 14;  Age-appropriate: 10;  Material: Wooden;  Size: M
+(277)  Category: Animals;  Serial Number: 3687310778;  Name: Hedgehong;  Brand: Gamezoid;  Price: 154.18;  Available-count: 3;  Age-appropriate: 4;  Material: Fabric;  Size: L
+(278)  Category: Animals;  Serial Number: 3192989816;  Name: Hippopotamus;  Brand: Game Zombie;  Price: 112.34;  Available-count: 13;  Age-appropriate: 9;  Material: Fabric;  Size: S
+(279)  Category: Animals;  Serial Number: 2840084672;  Name: Sheep;  Brand: Gamezoid;  Price: 3.48;  Available-count: 2;  Age-appropriate: 10;  Material: Wooden;  Size: L
+(280)  Category: Animals;  Serial Number: 2226330136;  Name: Dog;  Brand: Game Rush;  Price: 32.26;  Available-count: 14;  Age-appropriate: 10;  Material: Wooden;  Size: S
+(281)  Category: Animals;  Serial Number: 2175242587;  Name: Elephant;  Brand: Game Survival;  Price: 210.95;  Available-count: 13;  Age-appropriate: 10;  Material: Wooden;  Size: M
+(282)  Category: Animals;  Serial Number: 3226057634;  Name: Mouse;  Brand: Game Mach;  Price: 206.68;  Available-count: 9;  Age-appropriate: 5;  Material: Wooden;  Size: S
+(283)  Category: Animals;  Serial Number: 2113996461;  Name: Panda;  Brand: Game Sensor;  Price: 254.38;  Available-count: 4;  Age-appropriate: 6;  Material: Plastic;  Size: L
+(284)  Category: Animals;  Serial Number: 3412976858;  Name: Puppy;  Brand: Game Mach;  Price: 10.89;  Available-count: 6;  Age-appropriate: 6;  Material: Wooden;  Size: S
+(285)  Category: Animals;  Serial Number: 2627898001;  Name: Parrot;  Brand: Gameara;  Price: 30.03;  Available-count: 11;  Age-appropriate: 9;  Material: Fabric;  Size: M
+(286)  Category: Animals;  Serial Number: 3255102735;  Name: Monkey;  Brand: Game Zombie;  Price: 76.93;  Available-count: 9;  Age-appropriate: 2;  Material: Plastic;  Size: M
+(287)  Category: Animals;  Serial Number: 3110807827;  Name: Hamster;  Brand: Game Demon;  Price: 96.97;  Available-count: 2;  Age-appropriate: 4;  Material: Plastic;  Size: S
+(288)  Category: Animals;  Serial Number: 2586025992;  Name: Koala;  Brand: Game Shadow;  Price: 270.32;  Available-count: 9;  Age-appropriate: 10;  Material: Fabric;  Size: L
+(289)  Category: Animals;  Serial Number: 2857921221;  Name: Fox;  Brand: Game Mafia;  Price: 46.52;  Available-count: 4;  Age-appropriate: 10;  Material: Plastic;  Size: L
+(290)  Category: Animals;  Serial Number: 2029859334;  Name: Goat;  Brand: Game Shadow;  Price: 121.91;  Available-count: 11;  Age-appropriate: 5;  Material: Plastic;  Size: L
+(291)  Category: Animals;  Serial Number: 2454855569;  Name: Deer;  Brand: Game Sensor;  Price: 65.02;  Available-count: 7;  Age-appropriate: 3;  Material: Plastic;  Size: M
+(292)  Category: Animals;  Serial Number: 2432451871;  Name: Leopard;  Brand: Game Mafia;  Price: 106.32;  Available-count: 12;  Age-appropriate: 3;  Material: Plastic;  Size: L
+(293)  Category: Animals;  Serial Number: 3342647215;  Name: Mole;  Brand: Gamegenix;  Price: 93.35;  Available-count: 7;  Age-appropriate: 10;  Material: Plastic;  Size: S
+(294)  Category: Animals;  Serial Number: 3015093594;  Name: Horse;  Brand: Gamefluent;  Price: 63.69;  Available-count: 2;  Age-appropriate: 2;  Material: Plastic;  Size: S
+(295)  Category: Animals;  Serial Number: 3679935385;  Name: Kitten;  Brand: Game Mafia;  Price: 21.00;  Available-count: 5;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(296)  Category: Animals;  Serial Number: 3315715666;  Name: owl;  Brand: Gamearo;  Price: 191.76;  Available-count: 13;  Age-appropriate: 6;  Material: Fabric;  Size: L
+(297)  Category: Animals;  Serial Number: 2873391970;  Name: Squirrel;  Brand: Game Buff;  Price: 163.69;  Available-count: 5;  Age-appropriate: 2;  Material: Plastic;  Size: L
+(298)  Category: Animals;  Serial Number: 2629048960;  Name: Ducks;  Brand: Gamezoid;  Price: 47.43;  Available-count: 1;  Age-appropriate: 6;  Material: Fabric;  Size: S
+(299)  Category: Animals;  Serial Number: 3737738613;  Name: Deer;  Brand: Game Pixel;  Price: 182.28;  Available-count: 5;  Age-appropriate: 8;  Material: Fabric;  Size: L
+(300)  Category: Animals;  Serial Number: 3337731148;  Name: Rabbit;  Brand: Gameado;  Price: 63.90;  Available-count: 12;  Age-appropriate: 7;  Material: Fabric;  Size: S
+(301)  Category: Animals;  Serial Number: 2835360879;  Name: Cow;  Brand: Game Assassin;  Price: 19.52;  Available-count: 3;  Age-appropriate: 7;  Material: Plastic;  Size: M
+(302)  Category: Animals;  Serial Number: 3066990646;  Name: Horse;  Brand: Gamescape;  Price: 165.61;  Available-count: 1;  Age-appropriate: 7;  Material: Wooden;  Size: L
+(303)  Category: Animals;  Serial Number: 3015547049;  Name: Dove;  Brand: Game Zombie;  Price: 24.55;  Available-count: 2;  Age-appropriate: 9;  Material: Wooden;  Size: S
+(304)  Category: Animals;  Serial Number: 2804598463;  Name: Kangaroo;  Brand: Gamefluent;  Price: 289.37;  Available-count: 14;  Age-appropriate: 6;  Material: Wooden;  Size: S
+(305)  Category: Animals;  Serial Number: 3899783893;  Name: Turkey;  Brand: Game Buff;  Price: 11.74;  Available-count: 13;  Age-appropriate: 8;  Material: Plastic;  Size: M
+(306)  Category: Animals;  Serial Number: 2770204747;  Name: Chicken;  Brand: Gameara;  Price: 22.89;  Available-count: 4;  Age-appropriate: 9;  Material: Fabric;  Size: M
+(307)  Category: Animals;  Serial Number: 2656739862;  Name: Bee;  Brand: Gamen;  Price: 94.30;  Available-count: 9;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(308)  Category: Animals;  Serial Number: 3424511521;  Name: Otter;  Brand: Game Sky;  Price: 3.07;  Available-count: 8;  Age-appropriate: 7;  Material: Fabric;  Size: L
+(309)  Category: Animals;  Serial Number: 2399837756;  Name: Coyote;  Brand: Game Rush;  Price: 99.83;  Available-count: 2;  Age-appropriate: 5;  Material: Wooden;  Size: L
+(310)  Category: Animals;  Serial Number: 2797548530;  Name: Mouse;  Brand: Gameara;  Price: 14.53;  Available-count: 14;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(311)  Category: Animals;  Serial Number: 3690664040;  Name: Turtle;  Brand: Game Sensor;  Price: 223.01;  Available-count: 13;  Age-appropriate: 8;  Material: Fabric;  Size: M
+(312)  Category: Animals;  Serial Number: 3131436838;  Name: Giraffe;  Brand: Game Reboot;  Price: 94.57;  Available-count: 6;  Age-appropriate: 8;  Material: Wooden;  Size: L
+(313)  Category: Animals;  Serial Number: 2296386544;  Name: Chimpanzee;  Brand: Gamefluent;  Price: 12.89;  Available-count: 12;  Age-appropriate: 10;  Material: Fabric;  Size: L
+(314)  Category: Animals;  Serial Number: 2657125753;  Name: Pig;  Brand: Game Assassin;  Price: 192.93;  Available-count: 3;  Age-appropriate: 8;  Material: Wooden;  Size: M
+(315)  Category: Animals;  Serial Number: 3045978973;  Name: Goat;  Brand: Game Assassin;  Price: 225.70;  Available-count: 5;  Age-appropriate: 4;  Material: Wooden;  Size: M
+(316)  Category: Animals;  Serial Number: 2708237084;  Name: Cat;  Brand: Gamescape;  Price: 48.58;  Available-count: 9;  Age-appropriate: 2;  Material: Fabric;  Size: S
+(317)  Category: Animals;  Serial Number: 2753759364;  Name: Goldfish;  Brand: Game Reboot;  Price: 140.93;  Available-count: 13;  Age-appropriate: 9;  Material: Wooden;  Size: L
+(318)  Category: Animals;  Serial Number: 2342281667;  Name: Lion;  Brand: Game Throne;  Price: 14.07;  Available-count: 14;  Age-appropriate: 10;  Material: Wooden;  Size: M
+(319)  Category: Animals;  Serial Number: 3687310778;  Name: Hedgehong;  Brand: Gamezoid;  Price: 154.18;  Available-count: 3;  Age-appropriate: 4;  Material: Fabric;  Size: L
+(320)  Category: Animals;  Serial Number: 3192989816;  Name: Hippopotamus;  Brand: Game Zombie;  Price: 112.34;  Available-count: 13;  Age-appropriate: 9;  Material: Fabric;  Size: S
+(321)  Category: Animals;  Serial Number: 2840084672;  Name: Sheep;  Brand: Gamezoid;  Price: 3.48;  Available-count: 2;  Age-appropriate: 10;  Material: Wooden;  Size: L
+(322)  Category: Animals;  Serial Number: 2226330136;  Name: Dog;  Brand: Game Rush;  Price: 32.26;  Available-count: 14;  Age-appropriate: 10;  Material: Wooden;  Size: S
+(323)  Category: Animals;  Serial Number: 2175242587;  Name: Elephant;  Brand: Game Survival;  Price: 210.95;  Available-count: 13;  Age-appropriate: 10;  Material: Wooden;  Size: M
+(324)  Category: Animals;  Serial Number: 3226057634;  Name: Mouse;  Brand: Game Mach;  Price: 206.68;  Available-count: 9;  Age-appropriate: 5;  Material: Wooden;  Size: S
+(325)  Category: Animals;  Serial Number: 2113996461;  Name: Panda;  Brand: Game Sensor;  Price: 254.38;  Available-count: 4;  Age-appropriate: 6;  Material: Plastic;  Size: L
+(326)  Category: Animals;  Serial Number: 3412976858;  Name: Puppy;  Brand: Game Mach;  Price: 10.89;  Available-count: 6;  Age-appropriate: 6;  Material: Wooden;  Size: S
+(327)  Category: Animals;  Serial Number: 2627898001;  Name: Parrot;  Brand: Gameara;  Price: 30.03;  Available-count: 11;  Age-appropriate: 9;  Material: Fabric;  Size: M
+(328)  Category: Animals;  Serial Number: 3255102735;  Name: Monkey;  Brand: Game Zombie;  Price: 76.93;  Available-count: 9;  Age-appropriate: 2;  Material: Plastic;  Size: M
+(329)  Category: Animals;  Serial Number: 3110807827;  Name: Hamster;  Brand: Game Demon;  Price: 96.97;  Available-count: 2;  Age-appropriate: 4;  Material: Plastic;  Size: S
+(330)  Category: Animals;  Serial Number: 2586025992;  Name: Koala;  Brand: Game Shadow;  Price: 270.32;  Available-count: 9;  Age-appropriate: 10;  Material: Fabric;  Size: L
+(331)  Category: Animals;  Serial Number: 2857921221;  Name: Fox;  Brand: Game Mafia;  Price: 46.52;  Available-count: 4;  Age-appropriate: 10;  Material: Plastic;  Size: L
+(332)  Category: Animals;  Serial Number: 2029859334;  Name: Goat;  Brand: Game Shadow;  Price: 121.91;  Available-count: 11;  Age-appropriate: 5;  Material: Plastic;  Size: L
+(333)  Category: Animals;  Serial Number: 2454855569;  Name: Deer;  Brand: Game Sensor;  Price: 65.02;  Available-count: 7;  Age-appropriate: 3;  Material: Plastic;  Size: M
+(334)  Category: Animals;  Serial Number: 2432451871;  Name: Leopard;  Brand: Game Mafia;  Price: 106.32;  Available-count: 12;  Age-appropriate: 3;  Material: Plastic;  Size: L
+(335)  Category: Animals;  Serial Number: 3342647215;  Name: Mole;  Brand: Gamegenix;  Price: 93.35;  Available-count: 7;  Age-appropriate: 10;  Material: Plastic;  Size: S
+(336)  Category: Animals;  Serial Number: 3015093594;  Name: Horse;  Brand: Gamefluent;  Price: 63.69;  Available-count: 2;  Age-appropriate: 2;  Material: Plastic;  Size: S
+(337)  Category: Animals;  Serial Number: 3679935385;  Name: Kitten;  Brand: Game Mafia;  Price: 21.00;  Available-count: 5;  Age-appropriate: 5;  Material: Fabric;  Size: L
+(338)  Category: Animals;  Serial Number: 3315715666;  Name: owl;  Brand: Gamearo;  Price: 191.76;  Available-count: 13;  Age-appropriate: 6;  Material: Fabric;  Size: L
+(339)  Category: Animals;  Serial Number: 2873391970;  Name: Squirrel;  Brand: Game Buff;  Price: 163.69;  Available-count: 5;  Age-appropriate: 2;  Material: Plastic;  Size: L
+(340)  Category: Animals;  Serial Number: 2629048960;  Name: Ducks;  Brand: Gamezoid;  Price: 47.43;  Available-count: 1;  Age-appropriate: 6;  Material: Fabric;  Size: S
+(341)  Category: Animals;  Serial Number: 3737738613;  Name: Deer;  Brand: Game Pixel;  Price: 182.28;  Available-count: 5;  Age-appropriate: 8;  Material: Fabric;  Size: L
+(342)  Category: Animals;  Serial Number: 3337731148;  Name: Rabbit;  Brand: Gameado;  Price: 63.90;  Available-count: 12;  Age-appropriate: 7;  Material: Fabric;  Size: S
+(343)  Category: Board Games;  Serial Number: 8616804705;  Name: Mikado;  Brand: Game Pixel;  Price: 9.32;  Available-count: 9;  Age-appropriate: 9;  # of payers: 1-4;  Designer(s): Haniya Woodley
+(344)  Category: Board Games;  Serial Number: 9074383778;  Name: Blue Max;  Brand: Gamearo;  Price: 199.37;  Available-count: 11;  Age-appropriate: 2;  # of payers: 1-3;  Designer(s): Rojin Poole
+(345)  Category: Board Games;  Serial Number: 7837317368;  Name: TEG;  Brand: Game Reboot;  Price: 76.34;  Available-count: 1;  Age-appropriate: 8;  # of payers: 1-3;  Designer(s): Milla Baxter
+(346)  Category: Board Games;  Serial Number: 8685655988;  Name: Betrayal at House on the Hill;  Brand: Gamegenix;  Price: 131.52;  Available-count: 9;  Age-appropriate: 6;  # of payers: 2-6;  Designer(s): Barney Lugo,Yu Zimmerman
+(347)  Category: Board Games;  Serial Number: 7235647474;  Name: 13 Dead End Drive;  Brand: Game Assassin;  Price: 55.18;  Available-count: 10;  Age-appropriate: 9;  # of payers: 1-8;  Designer(s): Emeli Davis
+(348)  Category: Board Games;  Serial Number: 8947640910;  Name: Exploding Kittens;  Brand: Game Pixel;  Price: 73.07;  Available-count: 9;  Age-appropriate: 3;  # of payers: 2-4;  Designer(s): Haniya Woodley,Ruairidh Larsen
+(349)  Category: Board Games;  Serial Number: 9258568559;  Name: Jenga;  Brand: Game Reboot;  Price: 49.34;  Available-count: 10;  Age-appropriate: 7;  # of payers: 2-7;  Designer(s): Maryam Mcdonnell,Shanaya Walter
+(350)  Category: Board Games;  Serial Number: 7734720369;  Name: Doom: The Boardgame;  Brand: Gamefluent;  Price: 174.24;  Available-count: 10;  Age-appropriate: 7;  # of payers: 2-5;  Designer(s): Miller Knights
+(351)  Category: Board Games;  Serial Number: 8934865506;  Name: Djambi;  Brand: Game Shadow;  Price: 78.76;  Available-count: 3;  Age-appropriate: 6;  # of payers: 2-6;  Designer(s): T-Jay Harper,Marshall Swanson
+(352)  Category: Board Games;  Serial Number: 7393662390;  Name: Star Wars Tactics;  Brand: Game Loop;  Price: 3.44;  Available-count: 3;  Age-appropriate: 2;  # of payers: 1-5;  Designer(s): Ruairidh Larsen
+(353)  Category: Board Games;  Serial Number: 9399563748;  Name: Monopoly;  Brand: Game Survival;  Price: 47.52;  Available-count: 4;  Age-appropriate: 3;  # of payers: 2-5;  Designer(s): Usama Salas
+(354)  Category: Board Games;  Serial Number: 9898959982;  Name: Terakh;  Brand: Gamefluent;  Price: 236.57;  Available-count: 2;  Age-appropriate: 6;  # of payers: 1-5;  Designer(s): Osian Hendricks
+(355)  Category: Board Games;  Serial Number: 9527795179;  Name: Summit;  Brand: Game Orc;  Price: 204.74;  Available-count: 11;  Age-appropriate: 4;  # of payers: 1-4;  Designer(s): Milla Baxter,Troy Mcbride
+(356)  Category: Board Games;  Serial Number: 9138814396;  Name: Titan;  Brand: Game Reboot;  Price: 65.95;  Available-count: 13;  Age-appropriate: 4;  # of payers: 2-3;  Designer(s): Shakeel Mcintyre,Maryam Mcdonnell
+(357)  Category: Board Games;  Serial Number: 7089315414;  Name: Tsuro;  Brand: Gamen;  Price: 176.91;  Available-count: 1;  Age-appropriate: 5;  # of payers: 1-5;  Designer(s): Maryam Mcdonnell
+(358)  Category: Board Games;  Serial Number: 7785377855;  Name: Bang!;  Brand: Game Pixel;  Price: 89.51;  Available-count: 9;  Age-appropriate: 7;  # of payers: 1-5;  Designer(s): Marshall Swanson,Lana Thatcher
+(359)  Category: Board Games;  Serial Number: 7211390797;  Name: Poleconomy;  Brand: Game Throne;  Price: 211.94;  Available-count: 5;  Age-appropriate: 10;  # of payers: 1-3;  Designer(s): Barney Lugo
+(360)  Category: Board Games;  Serial Number: 7088724445;  Name: Clue Jr.: Case of the Missing Pet;  Brand: Game Reboot;  Price: 97.22;  Available-count: 6;  Age-appropriate: 7;  # of payers: 1-8;  Designer(s): Harpreet Reilly,Kaylan Scott
+(361)  Category: Board Games;  Serial Number: 9150054745;  Name: King of Tokyo;  Brand: Gamegenix;  Price: 223.23;  Available-count: 5;  Age-appropriate: 8;  # of payers: 1-7;  Designer(s): Marshall Swanson,Marshall Swanson
+(362)  Category: Board Games;  Serial Number: 8362861720;  Name: Heroscape;  Brand: Game Pixel;  Price: 132.21;  Available-count: 7;  Age-appropriate: 8;  # of payers: 2-3;  Designer(s): Lana Thatcher
+(363)  Category: Board Games;  Serial Number: 7586140827;  Name: Battle Sheep;  Brand: Game Sensor;  Price: 266.57;  Available-count: 14;  Age-appropriate: 9;  # of payers: 2-5;  Designer(s): Shakeel Mcintyre
+(364)  Category: Board Games;  Serial Number: 7001540358;  Name: Ghettopoly;  Brand: Gamen;  Price: 7.35;  Available-count: 10;  Age-appropriate: 5;  # of payers: 2-5;  Designer(s): T-Jay Harper
+(365)  Category: Board Games;  Serial Number: 9493833470;  Name: Ludo;  Brand: Game Mafia;  Price: 145.95;  Available-count: 14;  Age-appropriate: 6;  # of payers: 1-5;  Designer(s): Osian Hendricks,Ayva Gibbs
+(366)  Category: Board Games;  Serial Number: 7397838299;  Name: Axis & Allies;  Brand: Game Mach;  Price: 6.98;  Available-count: 7;  Age-appropriate: 6;  # of payers: 1-8;  Designer(s): Maryam Mcdonnell,Yu Zimmerman
+(367)  Category: Board Games;  Serial Number: 9649393637;  Name: Finance;  Brand: Game Assassin;  Price: 5.48;  Available-count: 7;  Age-appropriate: 10;  # of payers: 2-3;  Designer(s): Arham Friedman,Marshall Swanson
+(368)  Category: Board Games;  Serial Number: 8987410474;  Name: Bookchase;  Brand: Game Mach;  Price: 97.72;  Available-count: 9;  Age-appropriate: 9;  # of payers: 2-3;  Designer(s): T-Jay Harper,Marshall Swanson
+(369)  Category: Board Games;  Serial Number: 9336740135;  Name: Glückshaus;  Brand: Game Orc;  Price: 61.77;  Available-count: 12;  Age-appropriate: 6;  # of payers: 1-4;  Designer(s): Diego Hills,Diego Hills
+(370)  Category: Board Games;  Serial Number: 8584372936;  Name: American Megafauna;  Brand: Game Loop;  Price: 38.49;  Available-count: 7;  Age-appropriate: 2;  # of payers: 1-3;  Designer(s): Harpreet Reilly
+(371)  Category: Board Games;  Serial Number: 8840576104;  Name: Tsuro of the Seas;  Brand: Game Sensor;  Price: 175.98;  Available-count: 6;  Age-appropriate: 2;  # of payers: 1-4;  Designer(s): Axel Johnson
+(372)  Category: Board Games;  Serial Number: 8999104279;  Name: Blokus;  Brand: Gamearo;  Price: 76.78;  Available-count: 11;  Age-appropriate: 10;  # of payers: 2-6;  Designer(s): Kerrie Escobar
+(373)  Category: Board Games;  Serial Number: 7643992605;  Name: Shengguan Tu;  Brand: Game Buff;  Price: 67.78;  Available-count: 3;  Age-appropriate: 7;  # of payers: 1-8;  Designer(s): Shanaya Walter
+(374)  Category: Board Games;  Serial Number: 9923812551;  Name: Shadow Hunters;  Brand: Game Rush;  Price: 57.02;  Available-count: 3;  Age-appropriate: 7;  # of payers: 1-5;  Designer(s): Marshall Swanson,Diego Hills
+(375)  Category: Board Games;  Serial Number: 9108635194;  Name: Spy Alley;  Brand: Game Orc;  Price: 29.47;  Available-count: 1;  Age-appropriate: 4;  # of payers: 2-4;  Designer(s): Rhiann Worthington,Milla Baxter
+(376)  Category: Board Games;  Serial Number: 8076566788;  Name: Star Wars Epic Duels;  Brand: Game Reboot;  Price: 285.25;  Available-count: 14;  Age-appropriate: 9;  # of payers: 2-3;  Designer(s): Troy Mcbride
+(377)  Category: Board Games;  Serial Number: 8573975959;  Name: War on Terror;  Brand: Game Survival;  Price: 104.63;  Available-count: 7;  Age-appropriate: 9;  # of payers: 2-7;  Designer(s): Maryam Mcdonnell,Osian Hendricks
+(378)  Category: Board Games;  Serial Number: 9056736113;  Name: Khet;  Brand: Game Sky;  Price: 62.11;  Available-count: 5;  Age-appropriate: 2;  # of payers: 1-8;  Designer(s): Ayva Gibbs,Ayva Gibbs
+(379)  Category: Board Games;  Serial Number: 7666840048;  Name: Anti-Monopoly;  Brand: Game Reboot;  Price: 231.32;  Available-count: 8;  Age-appropriate: 8;  # of payers: 2-3;  Designer(s): Marshall Swanson
+(380)  Category: Board Games;  Serial Number: 8441793657;  Name: Solarquest;  Brand: Game Orc;  Price: 112.00;  Available-count: 6;  Age-appropriate: 7;  # of payers: 2-8;  Designer(s): Miller Knights
+(381)  Category: Board Games;  Serial Number: 7824482027;  Name: The Farming Game;  Brand: Game Throne;  Price: 174.14;  Available-count: 13;  Age-appropriate: 4;  # of payers: 1-7;  Designer(s): Miller Knights,Maryam Mcdonnell
+(382)  Category: Board Games;  Serial Number: 7703281617;  Name: Shogun/Samurai Swords;  Brand: Game Demon;  Price: 90.75;  Available-count: 12;  Age-appropriate: 8;  # of payers: 1-3;  Designer(s): Shakeel Mcintyre,Shakeel Mcintyre
+(383)  Category: Board Games;  Serial Number: 9806439465;  Name: Attack!;  Brand: Gamen;  Price: 19.82;  Available-count: 12;  Age-appropriate: 6;  # of payers: 2-6;  Designer(s): Maryam Mcdonnell,Mylie Campbell
+(384)  Category: Board Games;  Serial Number: 9870097486;  Name: Castle Risk;  Brand: Game Sky;  Price: 64.10;  Available-count: 10;  Age-appropriate: 2;  # of payers: 2-4;  Designer(s): Milla Baxter,Harpreet Reilly
+(385)  Category: Board Games;  Serial Number: 7187309492;  Name: Risk;  Brand: Game Sky;  Price: 70.42;  Available-count: 10;  Age-appropriate: 8;  # of payers: 1-6;  Designer(s): Osian Hendricks
+(386)  Category: Board Games;  Serial Number: 9218558662;  Name: The Great Train Robbery;  Brand: Game Zombie;  Price: 6.92;  Available-count: 2;  Age-appropriate: 2;  # of payers: 1-5;  Designer(s): Mylie Campbell,Osian Hendricks
+(387)  Category: Board Games;  Serial Number: 8793598849;  Name: Eclipse;  Brand: Game Sky;  Price: 50.61;  Available-count: 6;  Age-appropriate: 7;  # of payers: 1-5;  Designer(s): Shakeel Mcintyre
+(388)  Category: Board Games;  Serial Number: 9163940865;  Name: Blood Feud in New York;  Brand: Game Mafia;  Price: 25.48;  Available-count: 12;  Age-appropriate: 5;  # of payers: 2-4;  Designer(s): Rojin Poole
+(389)  Category: Board Games;  Serial Number: 8497620960;  Name: Diplomacy;  Brand: Game Sensor;  Price: 58.25;  Available-count: 7;  Age-appropriate: 10;  # of payers: 1-3;  Designer(s): Harpreet Reilly,Axel Johnson
+(390)  Category: Board Games;  Serial Number: 7344775739;  Name: Coppit;  Brand: Game Buff;  Price: 250.19;  Available-count: 9;  Age-appropriate: 2;  # of payers: 2-8;  Designer(s): Mylie Campbell
+(391)  Category: Board Games;  Serial Number: 7854452599;  Name: Hotel;  Brand: Game Sensor;  Price: 82.80;  Available-count: 10;  Age-appropriate: 8;  # of payers: 1-6;  Designer(s): Barney Lugo,T-Jay Harper
+(392)  Category: Board Games;  Serial Number: 7691410700;  Name: Hey, That's My Fish!;  Brand: Game Buff;  Price: 293.78;  Available-count: 9;  Age-appropriate: 4;  # of payers: 1-7;  Designer(s): Barney Lugo
+(393)  Category: Board Games;  Serial Number: 7935086963;  Name: StarCraft: The Board Game;  Brand: Gameado;  Price: 50.81;  Available-count: 5;  Age-appropriate: 7;  # of payers: 1-8;  Designer(s): Emeli Davis
+(394)  Category: Board Games;  Serial Number: 9514194360;  Name: King Oil;  Brand: Game Loop;  Price: 9.65;  Available-count: 12;  Age-appropriate: 7;  # of payers: 2-4;  Designer(s): Haniya Woodley
+(395)  Category: Board Games;  Serial Number: 8085889603;  Name: 1313 Dead End Drive;  Brand: Game Zombie;  Price: 43.54;  Available-count: 10;  Age-appropriate: 10;  # of payers: 1-5;  Designer(s): Marshall Swanson,Mylie Campbell
+(396)  Category: Board Games;  Serial Number: 7596463022;  Name: Strange Synergy;  Brand: Gamefluent;  Price: 80.41;  Available-count: 6;  Age-appropriate: 7;  # of payers: 1-7;  Designer(s): Milla Baxter,Harpreet Reilly
+(397)  Category: Board Games;  Serial Number: 8616804705;  Name: Mikado;  Brand: Game Pixel;  Price: 9.32;  Available-count: 9;  Age-appropriate: 9;  # of payers: 1-4;  Designer(s): Haniya Woodley
+(398)  Category: Board Games;  Serial Number: 9074383778;  Name: Blue Max;  Brand: Gamearo;  Price: 199.37;  Available-count: 11;  Age-appropriate: 2;  # of payers: 1-3;  Designer(s): Rojin Poole
+(399)  Category: Board Games;  Serial Number: 7837317368;  Name: TEG;  Brand: Game Reboot;  Price: 76.34;  Available-count: 1;  Age-appropriate: 8;  # of payers: 1-3;  Designer(s): Milla Baxter
+(400)  Category: Board Games;  Serial Number: 8685655988;  Name: Betrayal at House on the Hill;  Brand: Gamegenix;  Price: 131.52;  Available-count: 9;  Age-appropriate: 6;  # of payers: 2-6;  Designer(s): Barney Lugo,Yu Zimmerman
+(401)  Category: Board Games;  Serial Number: 7235647474;  Name: 13 Dead End Drive;  Brand: Game Assassin;  Price: 55.18;  Available-count: 10;  Age-appropriate: 9;  # of payers: 1-8;  Designer(s): Emeli Davis
+(402)  Category: Board Games;  Serial Number: 8947640910;  Name: Exploding Kittens;  Brand: Game Pixel;  Price: 73.07;  Available-count: 9;  Age-appropriate: 3;  # of payers: 2-4;  Designer(s): Haniya Woodley,Ruairidh Larsen
+(403)  Category: Board Games;  Serial Number: 9258568559;  Name: Jenga;  Brand: Game Reboot;  Price: 49.34;  Available-count: 10;  Age-appropriate: 7;  # of payers: 2-7;  Designer(s): Maryam Mcdonnell,Shanaya Walter
+(404)  Category: Board Games;  Serial Number: 7734720369;  Name: Doom: The Boardgame;  Brand: Gamefluent;  Price: 174.24;  Available-count: 10;  Age-appropriate: 7;  # of payers: 2-5;  Designer(s): Miller Knights
+(405)  Category: Board Games;  Serial Number: 8934865506;  Name: Djambi;  Brand: Game Shadow;  Price: 78.76;  Available-count: 3;  Age-appropriate: 6;  # of payers: 2-6;  Designer(s): T-Jay Harper,Marshall Swanson
+(406)  Category: Board Games;  Serial Number: 7393662390;  Name: Star Wars Tactics;  Brand: Game Loop;  Price: 3.44;  Available-count: 3;  Age-appropriate: 2;  # of payers: 1-5;  Designer(s): Ruairidh Larsen
+(407)  Category: Board Games;  Serial Number: 9399563748;  Name: Monopoly;  Brand: Game Survival;  Price: 47.52;  Available-count: 4;  Age-appropriate: 3;  # of payers: 2-5;  Designer(s): Usama Salas
+(408)  Category: Board Games;  Serial Number: 9898959982;  Name: Terakh;  Brand: Gamefluent;  Price: 236.57;  Available-count: 2;  Age-appropriate: 6;  # of payers: 1-5;  Designer(s): Osian Hendricks
+(409)  Category: Board Games;  Serial Number: 9527795179;  Name: Summit;  Brand: Game Orc;  Price: 204.74;  Available-count: 11;  Age-appropriate: 4;  # of payers: 1-4;  Designer(s): Milla Baxter,Troy Mcbride
+(410)  Category: Board Games;  Serial Number: 9138814396;  Name: Titan;  Brand: Game Reboot;  Price: 65.95;  Available-count: 13;  Age-appropriate: 4;  # of payers: 2-3;  Designer(s): Shakeel Mcintyre,Maryam Mcdonnell
+(411)  Category: Board Games;  Serial Number: 7089315414;  Name: Tsuro;  Brand: Gamen;  Price: 176.91;  Available-count: 1;  Age-appropriate: 5;  # of payers: 1-5;  Designer(s): Maryam Mcdonnell
+(412)  Category: Board Games;  Serial Number: 7785377855;  Name: Bang!;  Brand: Game Pixel;  Price: 89.51;  Available-count: 9;  Age-appropriate: 7;  # of payers: 1-5;  Designer(s): Marshall Swanson,Lana Thatcher
+(413)  Category: Board Games;  Serial Number: 7211390797;  Name: Poleconomy;  Brand: Game Throne;  Price: 211.94;  Available-count: 5;  Age-appropriate: 10;  # of payers: 1-3;  Designer(s): Barney Lugo
+(414)  Category: Board Games;  Serial Number: 7088724445;  Name: Clue Jr.: Case of the Missing Pet;  Brand: Game Reboot;  Price: 97.22;  Available-count: 6;  Age-appropriate: 7;  # of payers: 1-8;  Designer(s): Harpreet Reilly,Kay

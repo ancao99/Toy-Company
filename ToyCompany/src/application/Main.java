@@ -32,6 +32,7 @@ public class Main extends Application  {
 			primaryStage.setTitle("Toy Company");
 			primaryStage.setScene(scene);
 			primaryStage.show();
+			outPutFile();
 		} catch(Exception e) {
 			e.printStackTrace();
 		}
@@ -73,25 +74,21 @@ public class Main extends Application  {
 	// return list of figure toys
 	public static ArrayList<String> getFigures() throws FileNotFoundException
 	{
-		readFile();
 		return figures;
 	}
 	//return list of animal toys
 	public static ArrayList<String> getAnimals() throws FileNotFoundException
 	{
-		readFile();
 		return animals;
 	}
 	//return list of puzzle toys
 	public static ArrayList<String> getPuzzles() throws FileNotFoundException
 	{
-		readFile();
 		return puzzles;
 	}
 	//return list of board game toys
 	public static ArrayList<String> getBoardGame() throws FileNotFoundException
 	{
-		readFile();
 		return boardGames;
 	}
 	//return list of arrange toys with number
@@ -112,5 +109,14 @@ public class Main extends Application  {
 			all.add("("+(i+1+figures.size()+puzzles.size()+animals.size())+")  "+boardGames.get(i));
 		}
 		return all;
+	}
+	public void outPutFile() throws FileNotFoundException
+	{
+		PrintWriter out = new PrintWriter ("toys.txt");
+		for(String str:getAll())
+		{
+			out.write(str+System.lineSeparator());
+		}
+		
 	}
 }
